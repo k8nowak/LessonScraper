@@ -1,0 +1,178 @@
+Start of Lesson
+Lesson
+Rational and Irrational Numbers
+Lesson Narrative
+In previous lessons, students learned that square root notation is used to write the side length of a square given the area of the square. For example, a square whose area is 17 square units has a side length of \(\sqrt{17}\) units.
+In this lesson, students build on their work with square roots to learn about a new mathematical idea, irrational numbers. Students recall the definition of rational numbers (MP6) and use this definition to search for a rational number \(x\) such that \(x^2 = 2\). Students should not be left with the impression that looking for and failing to find a rational number whose square is 2 is a proof that \(\sqrt{2}\) is irrational; this exercise is simply meant to reinforce what it means to be irrational and to provide some plausibility for the claim. Students are not expected to prove that \(\sqrt{2}\) is irrational in grade 8, and so ultimately must just accept it as a fact for now.
+In the next lesson, students will learn strategies for finding the approximate location of an irrational number on a number line.
+Learning Goals
+Teacher Facing
+Comprehend the term “irrational number” (in spoken language) to mean a number that is not rational and that $\sqrt{2}$ is an example of an irrational number.
+Comprehend the term “rational number” (in written and spoken language) to mean a fraction or its opposite.
+Determine whether a given rational number is a solution to the equation $x^2=2$ and explain (orally) the reasoning.
+Student Facing
+Let’s learn about irrational numbers.
+Required Materials
+Tracing paper
+Required Preparation
+It would be useful throughout this unit to have a list of perfect squares for easy reference. Consider hanging up a poster that shows the 20 perfect squares from 1 to 400. It is particularly handy in this lesson.
+Learning Targets
+Student Facing
+I know what an irrational number is and can give an example.
+I know what a rational number is and can give an example.
+CCSS Standards
+Building On
+5.NF.B.4
+6.EE.A.1
+Addressing
+8.EE.A.2
+8.NS.A
+Building Towards
+8.EE.A.2
+8.NS.A.2
+Glossary Entries
+irrational number
+An irrational number is a number that is not a fraction or the opposite of a fraction.
+Pi (\(\pi\)) and \(\sqrt2\) are examples of irrational numbers.
+An irrational number is a number that is not a fraction or the opposite of a fraction.
+Pi (\(\pi\)) and \(\sqrt2\) are examples of irrational numbers.
+rational number
+A rational number is a fraction or the opposite of a fraction.
+Some examples of rational numbers are: \(\frac74,0,\frac63,0.2,\text-\frac13,\text-5,\sqrt9\)
+A rational number is a fraction or the opposite of a fraction.
+Some examples of rational numbers are: \(\frac74,0,\frac63,0.2,\text-\frac13,\text-5,\sqrt9\)
+Lesson Title:
+Rational and Irrational Numbers
+3.1: Algebra Talk: Positive Solutions (5 minutes)
+CCSS Standards
+Building On
+5.NF.B.4
+6.EE.A.1
+Building Towards
+8.NS.A.2
+Routines and Materials
+Instructional Routines
+Algebra Talk
+MLR8: Discussion Supports
+The purpose of this warm-up is for students to review multiplication of fractions in preparation for the main problem of this lesson: estimating solutions to the equation \(x^2=2\). For example, \(\frac32 \boldcdot \frac32 = \frac94\), which is a value close to 2 so \(\frac32\) is a value close to \(\sqrt{2}\). For this activity it is best if students work with fractions and do not convert any numbers to their decimal forms. Answers expressed in decimal form aren’t wrong, but if students work with decimal forms, they will miss out on the purpose of this warm-up.
+While four problems are given, it may not be possible to share every strategy. Consider gathering only two or three different strategies per problem.
+Ask students, “Could 8 be a solution to \(x^2 = 49\)? Why or why not?”
+Display one problem at a time. Give students 30 seconds of quiet think time for each problem, and ask them to give a signal when they have an answer and a strategy. Keep all previous problems displayed throughout the talk. Follow with a whole-class discussion.
+Find a positive solution to each equation:
+\(x^2=36\)
+\(x^2=\frac94\)
+\(x^2=\frac14\)
+\(x^2=\frac{49}{25}\)
+Ask students to share their strategies for each problem. Record and display their responses for all to see. At the end of the discussion, ask students to explain what they know about multiplication of fractions that helped them find the value of \(x^2\) in each problem.
+To involve more students in the conversation, consider asking:
+“Did anyone have the same strategy but would explain it differently?”
+“Did anyone solve for the value of \(x\) in a different way?”
+“Does anyone want to add on to _____’s strategy?”
+“Do you agree or disagree? Why?”
+3.2: Three Squares (10 minutes)
+CCSS Standards
+Addressing
+8.EE.A.2
+Routines and Materials
+Instructional Routines
+Anticipate, Monitor, Select, Sequence, Connect
+MLR8: Discussion Supports
+Required Materials
+Tracing paper
+This activity is the first of three activities in which students investigate the value of \(\sqrt2\). In this activity, students draw three squares on small grids, building on their earlier work. Two of the three possible squares have easily countable side lengths since they line up along the grid lines. The third likely possibility, that of a tilted square with vertices at the midpoint of each side of the grid, has sides equal to the length of a diagonal of a 1 unit square.
+Monitor for students who:
+compare lengths directly by either creating a grid ruler or by tracing a segment with tracing paper and bringing it side by side with another segment. Most likely these students will say that the side length of the tilted square is around 1.5 units (or possibly, a little bit less than 1.5 units).
+who recall the square root notation from the previous lesson and expressed the side length of the tilted square as \(\sqrt{2}\). Since the area of the tilted square is 2 square units, we can express its side length as \(\sqrt{2}\) units.
+If we use tracing paper or create a ruler scaled the same way as the grid, it can be seen that \(\sqrt{2}\) is a bit less than 1.5. In the next activity, students will look for a more precise value of \(\sqrt{2}\).
+Provide access to tracing paper. Display the image from the task statement for all to see, and note that there are 9 vertices in each 2-by-2 grid. Students are asked in this activity to draw “squares of different sizes with vertices aligned to the vertices of the grid,” so make sure they can interpret this correctly. It may be helpful to draw a few non-examples.
+This has vertices aligned to the grid, but is not a square:
+Image description: Rectangle on grid
+This looks like a square, but doesn’t have vertices aligned to the grid:
+Image description: Square on grid
+Image description: Three blank square grids. Each grid has 2 rows of 2 squares.
+Draw 3 squares of different sizes with vertices aligned to the vertices of the grid.
+For each square:Label the area.Label the side length.Write an equation that shows the relationship between the side length and the area.
+For each square:
+Label the area.
+Label the side length.
+Write an equation that shows the relationship between the side length and the area.
+Some will say the side length of the tilted square is 1 unit, because a common misconception is that the diagonal of a square has a length of 1 unit. Ask students if the square has the same area as a grid square.
+First, select students who tried to compare the lengths directly by either creating a grid ruler or by tracing a segment with tracing paper and bringing it side by side with another segment during the discussion. Highlight the use of rotating figures to align sides in order to compare their lengths. Most likely these students will say that the side length of the tilted square is around 1.5 units (or possibly, a little bit less than 1.5 units).
+Then, select students who recall the square root notation from the previous lesson and expressed the side length of the tilted square as \(\sqrt{2}\). Since the area of the tilted square is 2 square units, its side length can be expressed as \(\sqrt{2}\) units. This activity shows that \(\sqrt{2}\) is around 1.5. In the next activity, students will look for a more precise value of \(\sqrt{2}\).
+3.3: Looking for a Solution (10 minutes)
+CCSS Standards
+Building Towards
+8.EE.A.2
+8.NS.A.2
+Routines and Materials
+Instructional Routines
+MLR1: Stronger and Clearer Each Time
+Think Pair Share
+This activity is the second of three activities in which students investigate the value of \(\sqrt2\). As a result of the previous activity, students should believe that \(\sqrt2\) is about 1.5, maybe a little bit less.
+Students should also understand that \(\sqrt2\) is a number that we can multiply by itself and get a 2, so this is true:
+\(\displaystyle \sqrt2 \boldcdot \sqrt2 = 2\)
+The goal of this activity is to achieve a more precise value of \(\sqrt2\) than “about 1.5, maybe a little less.” In other words, an exact solution to \(x^2=2\) is required. In this activity, students will consider whether certain candidates are solutions to this equation.
+In the whole-class discussion that follows, rational number is defined.
+Remind students that 1.5 is equivalent to \(\frac32\). Students in groups of 2. Give 2–3 minutes quiet work time followed by partner then a whole-class discussion.
+Are any of these numbers a solution to the equation \(x^2=2\)? Explain your reasoning.
+1
+\(\frac12\)
+\(\frac32\)
+\(\frac75\)
+Select students to share their reasoning for why each number is not a solution to \(x^2=2\). If students do not point it out, make sure that they notice that \(\frac32\) is not a terrible approximation for \(\sqrt2\), since \(\left( \frac32 \right)^2 = \frac94\), and \(\frac94\) is only a bit larger than 2. \(\frac75\) is an even better approximation for \(\sqrt2\), since \(\left( \frac75 \right)^2 = \frac{49}{25}\), which is just a little bit smaller than \(\frac{50}{25}\) (which equals 2). If you have posted a list of perfect squares in the room for reference, refer to this list during the discussion, because that list will come in handy when students work on the next activity.
+This is where we want to define rational number. A rational number is a fraction or its opposite. Remember that a fraction is a number on the number line that you get by dividing the unit interval into \(b\) equal parts and finding the point that is \(a\) of them from 0. We can always write a fraction in the form \(\frac{a}{b}\) where \(a\) and \(b\) are whole numbers (and \(b\) is not 0), but there are other ways to write them. For example, 0.4 is a fraction because it is the point on the number line you get by dividing the unit interval into 10 equal parts and finding the point that is 4 away from 0. (You get the same point if you divide the unit interval into 5 equal parts and find the point that is 2 away from 0.) When we first learned about fractions, we didn’t know about negative numbers. Rational numbers are fractions, but they can be positive or negative. So, \(\text -\frac25\) is also a rational number.
+Image description: Number line
+Here are some examples of rational numbers: \(\displaystyle \frac{7}{4}, 0, \frac63, 0.2, \text-\frac{1}{3}, \text-5, \sqrt{9}, \text-\frac{\sqrt{16}}{\sqrt{100}}\) Can you see why they are each “a fraction or its opposite?”
+Because fractions and ratios are closely related ideas, fractions and their opposites are called RATIOnal numbers.
+3.4: Looking for $\sqrt2$ (10 minutes)
+CCSS Standards
+Addressing
+8.EE.A.2
+8.NS.A
+Routines and Materials
+Instructional Routines
+MLR2: Collect and Display
+This activity is the third of three activities in which students investigate the value of \(\sqrt{2}\). In the previous activity, students saw that \(\frac75\) is a pretty good approximation for \(\sqrt2\). \(\sqrt2\) is a number when multiplied by itself equals 2, and \(\frac75\) multiplied by itself is pretty close to 2, it’s \(\frac{49}{25}\). In the discussion of the previous activity, students also learned (or were reminded of) the definition of rational number: a fraction or its opposite.
+In this activity, students have a chance to look for some more rational numbers that are close to \(\sqrt2\). The idea is that they will look, for a while, for a fraction that can be multiplied by itself where the product is exactly 2. Of course, they won’t find one, because there is no such number. In the whole-class discussion that follows, irrational number is defined.
+For this activity, it is best if students do not have access to a calculator with a square root button. A calculator that shows 9 decimal places will tell you that \(\sqrt2=1.414213562\) (which is not true) and that \(1.414213562^2=2\) (which is also not true). (To convince students that the calculator is lying to them, you have to make them multiply 1.414213562 by itself by hand, so better to sidestep the issue for now.) It would be handy for students to refer to a list of perfect squares while working on this activity, so consider posting such a list and drawing students’ attention to it.
+Before they get started, remind students that a rational number is a fraction or its opposite, for example, \(\frac98\). Let them know that terminating decimals are also rational, for example, \(0.7 = \frac{7}{10}\).
+As students work, it is possible they will focus on numbers in decimal form when searching for a rational number close to \(\sqrt2\). If you see this, encourage students to remember their work in the previous activity and the example of \(\frac75\), whose square, \(\frac{49}{25}\), was very close to 2. Are there any other values like \(\frac75\) that might be even closer to \(\sqrt2\)?
+Since students could search indefinitely for a solution to the last problem with no success, ask students to stop their work in order to leave 3–4 minutes for a whole-class discussion.
+A rational number is a fraction or its opposite (or any number equivalent to a fraction or its opposite).
+Find some more rational numbers that are close to \(\sqrt2\).
+Can you find a rational number that is exactly \(\sqrt2\)?
+If you have an older calculator evaluate the expression\(\displaystyle \left(\frac{577}{408}\right)^2\)and it will tell you that the answer is 2, which might lead you to think that \(\sqrt{2}=\frac{577}{408}\).
+Explain why you might be suspicious of the calculator’s result.
+Find an explanation for why \(408^2\boldcdot 2\) could not possibly equal \(577^2\). How does this show that \(\left(\frac{577}{408}\right)^2\) could not equal 2?
+Repeat these questions for\(\displaystyle \left(\frac{1414213562375}{10000000000000}\right)^2\neq 2,\)an equation that even many modern calculators and computers will get wrong.
+Teachers with a valid work email address can click here to register or sign in for free access to Extension Student Response.
+Ideally, students were given time to look for a rational number that is a solution to \(x^2=2\). Select students with particularly close values to share their number with the class and what strategy they used to find it. Applaud students for their perseverance, but confess that no such number exists because it is an irrational number.
+Display a number line for all to see such as the one shown here. Tell students that an irrational number is a number that is not rational. That is, it is a number that is not a fraction or its opposite. \(\sqrt2\) is one example of an irrational number. It has a location on the number line, and its location can be narrowed down (it’s a tiny bit to the right of \(\frac{7}{5}\)), but \(\sqrt2\) cannot be found on a number line by subdividing the unit interval into \(b\) parts and taking \(a\) of them. We have to define \(\sqrt{2}\) in a different way, such as the side length of a square with area 2 square units.
+Image description: Number line
+Description: <p>A number line with 10 evenly spaced tick marks. The first tick mark is labeled 0 and the sixth tick mark is labeled 1. An arrow points to the eighth tick mark and is labeled seven-fifths. A second arrow points to a point slightly to the right of the eighth tick mark and is labeled the square root of 2.</p>
+Image description: Number line
+Just looking for rational solutions to \(x^2=2\) and not finding any is not a proof that \(\sqrt2\) is irrational. But for the purposes of this course, students are asked to take it as a fact that \(\sqrt2\) is irrational. In students’ future studies, they may have opportunities to understand or write a proof that \(\sqrt2\) is irrational.
+While the activities focus specifically on \(\sqrt{2}\), there is nothing particularly special about this example. The square root of a whole number is either a whole number or irrational, so \(\sqrt{10}\), \(\sqrt{67}\), etc., are all irrational. Beyond grade level but worth having on hand for the sake of discussion is that rational multiples of irrational numbers are also irrational, so numbers like \(5\sqrt{7}\), \(\text -\sqrt{45}\), and \(\frac{\sqrt{5}}{3}\) are also irrational.
+Lesson Synthesis
+The purpose of this discussion is to explicitly point out that while we have collected some evidence that supports the claim that \(\sqrt{2}\) is irrational, we have not actually proved this claim. Here are some possible questions for discussion:
+“If I told you that there are no purple zebras, and you spent your whole life traveling the world and never saw a purple zebra, does it mean I was right?” (No, it is possible you just failed to find a purple zebra.)
+“So if we spent our whole lives testing different fractions and never quite got one whose square is 2, does that mean there are no such fractions?” (No, maybe you just haven’t found it yet.)
+Tell students that we haven’t learned enough to prove for sure that \(\sqrt2\) is not equivalent to a fraction. For now, we just have to trust that there are numbers on the number line that are not equivalent to a fraction and that \(\sqrt2\) is one of them. However, it is possible to get very close estimates with fractions.
+3.5: Cool-down - Types of Solutions (5 minutes)
+CCSS Standards
+Addressing
+8.NS.A
+Teachers with a valid work email address can click here to register or sign in for free access to Cool-Downs.
+Student Lesson Summary
+In an earlier activity, we learned that square root notation is used to write the length of a side of a square given its area. For example, a square whose area is 2 square units has a side length of \(\sqrt{2}\) units, which means that\(\displaystyle \sqrt{2} \boldcdot \sqrt{2} = 2.\)
+Image description: tilted square with side lenght = square root 2 graphed on grid
+A square whose area is 25 square units has a side length of \(\sqrt{25}\) units, which means that \(\displaystyle \sqrt{25} \boldcdot \sqrt{25} = 25.\)Since \(5 \boldcdot 5 = 25\), we know that \(\displaystyle \sqrt{25}=5.\)
+\(\sqrt{25}\) is an example of a rational number. A rational number is a fraction or its opposite. Remember that a fraction \(\frac{a}{b}\) is a point on the number line found by dividing the segment from 0 to 1 into \(b\) equal intervals and going \(a\) of those intervals to the right of 0. We can always write a fraction in the form \(\frac{a}{b}\) where \(a\) and \(b\) are whole numbers (and \(b\) is not 0), but there are other ways to write them. For example, we can write \(\sqrt{25} = \frac{5}{1}\). You first learned about fractions in earlier grades, and at that time, you probably didn't know about negative numbers. Rational numbers are fractions, but they can be positive or negative. So, -5 is also a rational number. Because fractions and ratios are closely related ideas, fractions and their opposites are called RATIOnal numbers.
+Here are some examples of rational numbers: \(\displaystyle \frac{7}{4},\text{ } 0,\frac63, 0.2, \text-\frac{1}{3},\text-5, \sqrt{9},\text{ -}\frac{\sqrt{16}}{\sqrt{100}}\) Can you see why they are each examples of “a fraction or its opposite?”
+An irrational number is a number that is not rational. That is, it is a number that is not a fraction or its opposite. \(\sqrt{2}\) is an example of an irrational number. It has a location on the number line, and its location can be approximated by rational numbers (it's a tiny bit to the right of \(\frac75\)), but \(\sqrt{2}\) can not be found on a number line by dividing the segment from 0 to 1 into \(b\) equal parts and going \(a\) of those parts away from 0 (if \(a\) and \(b\) are whole numbers).
+Image description: Number line
+Description: <p>A number line with 10 evenly spaced tick marks. The first tick mark is labeled 0 and the sixth tick mark is labeled 1. An arrow points to the eighth tick mark and is labeled seven-fifths. A second arrow points to a point slightly to the right of the eighth tick mark and is labeled the square root of 2.</p>
+Image description: Number line
+\(\frac{17}{12}\) is also close to \(\sqrt{2}\), because \(\left( \frac{17}{12} \right)^2=\frac{289}{144}\). \(\frac{289}{144}\) is very close to 2, since \(\frac{288}{144}=2\). But we could keep looking forever for solutions to \(x^2=2\) that are rational numbers, and we would not find any. \(\sqrt2\) is not a rational number! It is irrational.
+In your future studies, you may have opportunities to understand or write a proof that \(\sqrt2\) is irrational, but for now, we just take it as a fact that \(\sqrt2\) is irrational. Similarly, the square root of any whole number is either a whole number (\(\sqrt{36}=6\), \(\sqrt{64}=8\), etc.) or irrational (\(\sqrt{17}\), \(\sqrt{65}\), etc.). Here are some other examples of irrational numbers:\(\displaystyle \sqrt{10}, \text{ -}\sqrt3, \text{ }\frac{\sqrt5}{2},\text{ } \pi\)
+End of Lesson

@@ -1,0 +1,87 @@
+Start of Lesson
+Lesson
+Using Negative Numbers to Make Sense of Contexts
+Lesson Narrative
+In this lesson, students are introduced to conventions for using signed numbers to represent money spent and received, as well as inventory gained and lost. While money contexts can be represented without signed numbers, there are many situations that are more efficiently modeled by signed numbers. For example, if a person has \$50 in the bank and writes a \$20 check, we can represent the balance as \(50-20\). If they had written an \$80 check, we can still write the balance as \(50-80\), as long as we have adopted the convention that negative numbers represent what the person owes the bank (and assuming the bank allows overdrafts). Since students do not operate on signed numbers in this grade, this lesson is simply an introduction to the convention of using signed numbers to represent a change in money or a change in inventory, an important convention in modeling financial situations with mathematics (MP4). In a later lesson, students will be introduced to the idea of an account balance. In grade 7, students will study addition and subtraction of signed numbers and apply those concepts in accounting situations.
+Learning Goals
+Teacher Facing
+Interpret a table of signed numbers that represent how a quantity changed.
+Recognize that signed numbers can be useful to represent changes in a quantity in opposite directions, e.g., money received and money paid, inventory bought and inventory sold, etc.
+Student Facing
+Let’s make sense of negative amounts of money.
+Learning Targets
+Student Facing
+I can explain and use negative numbers in situations involving money.
+I can interpret and use negative numbers in different contexts.
+CCSS Standards
+Addressing
+6.NS.C.5
+Lesson Title:
+Using Negative Numbers to Make Sense of Contexts
+5.1: Notice and Wonder: It Comes and Goes (5 minutes)
+CCSS Standards
+Addressing
+6.NS.C.5
+Routines and Materials
+Instructional Routines
+Notice and Wonder
+The purpose of this warm-up is to elicit the idea that we can represent money we get with positive numbers and money we spend with negative numbers, which will be useful when students make sense of data about money and inventory in later activities. While students may notice and wonder many things about this table, interpreting the meaning of positive and negative numbers in this context is most important.
+Arrange students in groups of 2. Tell students that they will look at an image, and their job is to think of at least one thing they notice and at least one thing they wonder. Display the image for all to see. Ask students to give a signal when they have noticed or wondered about something. Give students 1 minute of quiet think time, and then 1 minute to discuss the things they notice with their partner, followed by a whole-class discussion.
+What do you notice? What do you wonder?
+Ask students to share the things they noticed and wondered. Record and display their responses for all to see. If possible, record the relevant reasoning on or near the table. After each response, ask the class if they agree or disagree and to explain alternative ways of thinking, referring back to the images each time. If representing money that we receive with positive numbers and money that we spend with negative numbers does not come up during the conversation, ask students to discuss this idea.
+5.2: The Concession Stand (15 minutes)
+CCSS Standards
+Addressing
+6.NS.C.5
+Routines and Materials
+Instructional Routines
+MLR8: Discussion Supports
+Think Pair Share
+The purpose of this activity is to interpret signed numbers in a situation involving money and inventory. Students reason abstractly and quantitatively when they think about change in inventory and money using positive and negative numbers (MP2).
+Arrange students in groups of 2. Give students 8 minutes of quiet work time, 3 minutes for partner discussion, followed by whole-class discussion.
+The manager of the concession stand keeps records of all of the supplies she buys and all of the items she sells. The table shows some of her records for Tuesday.
+Which items did she sell? Explain your reasoning.
+How can we interpret -58 in this situation?
+How can we interpret -10.35 in this situation?
+On which item did she spend the most amount of money? Explain your reasoning.
+Ask students to compare their responses with their partner and work to reach agreement. Monitor student discussions and select students to share their partner’s reasoning in whole-class discussion. The key takeaway in the discussion is that positive and negative numbers are useful for describing change. If an amount goes up, then the change is positive. If an amount goes down, that means the change is negative.
+5.3: Drinks for Sale (15 minutes)
+CCSS Standards
+Addressing
+6.NS.C.5
+Routines and Materials
+Instructional Routines
+MLR2: Collect and Display
+Think Pair Share
+Students interpret positive and negative numbers in the context of a changing inventory (MP2).
+Keep students in the same groups of 2. Give students 8 minutes of quiet work time and 3 minutes of partner discussion. Follow with whole-class discussion.
+A vending machine in an office building sells bottled beverages. The machine keeps track of all changes in the number of bottles from sales and from machine refills and maintenance. This record shows the changes for every 5-minute period over one hour.
+What might a positive number mean in this context? What about a negative number?
+What would a “0” in the second column mean in this context?
+Which numbers—positive or negative—result in fewer bottles in the machine?
+At what time was there the greatest change to the number of bottles in the machine? How did that change affect the number of remaining bottles in the machine?
+At which time period, 8:05–8:09 or 8:25–8:29, was there a greater change to the number of bottles in the machine? Explain your reasoning.
+The machine must be emptied to be serviced. If there are 40 bottles in the machine when it is to be serviced, what number will go in the second column in the table?
+Priya, Mai, and Lin went to a cafe on a weekend. Their shared bill came to \$25. Each student gave the server a \$10 bill. The server took this \$30 and brought back five \$1 bills in change. Each student took \$1 back, leaving the rest, \$2, as a tip for the server.
+As she walked away from the cafe, Lin thought, “Wait—this doesn’t make sense. Since I put in \$10 and got \$1 back, I wound up paying \$9. So did Mai and Priya. Together, we paid \$27. Then we left a \$2 tip. That makes \$29 total. And yet we originally gave the waiter \$30. Where did the extra dollar go?”
+Think about the situation and about Lin’s question. Do you agree that the numbers didn’t add up properly? Explain your reasoning.
+Teachers with a valid work email address can click here to register or sign in for free access to Extension Student Response.
+The goal of the discussion is to allow students to share their thoughts on the meaning of positive and negative numbers in context. Ask students to share their responses with their partner and work to reach agreement. Monitor groups’ discussions and select students to share their partner’s reasoning about what the numbers in the table mean. Ask students to summarize the story the numbers in the table tell. Tell students that tables like this (but perhaps more complicated) are used all the time to tell stories about what is happening in the world.
+Lesson Synthesis
+In this lesson, students interpreted situations where positive and negative numbers were used to show changes in inventory or changes in money. Here are some questions to consider while closing the lesson:
+“What did the positive and negative numbers mean in this lesson?” (Positive numbers represented a gain, like receiving money or adding bottles to the machine. Negative numbers represented a loss, like spending money by buying something or removing bottles from the machine.)
+“We saw that we could use positive and negative numbers to represent gaining and losing money. What other situations can you think of where you gain or lose an amount that you could use negative numbers to talk about? What would positive and negative changes mean in those situations?” (Responses vary. Some examples include weight, speed, number of subscribers, field position in football.)
+5.4: Cool-down - Bakery Owner (5 minutes)
+CCSS Standards
+Addressing
+6.NS.C.5
+Teachers with a valid work email address can click here to register or sign in for free access to Cool-Downs.
+Student Lesson Summary
+Sometimes we represent changes in a quantity with positive and negative numbers. If the quantity increases, the change is positive. If it decreases, the change is negative.
+Suppose 5 gallons of water is put in a washing machine. We can represent the change in the number of gallons as +5. If 3 gallons is emptied from the machine, we can represent the change as -3.
+It is especially common to represent money we receive with positive numbers and money we spend with negative numbers.
+Suppose Clare gets \$30.00 for her birthday and spends \$18.00 buying lunch for herself and a friend. To her, the value of the gift can be represented as +30.00 and the value of the lunch as -18.00.
+Whether a number is considered positive or negative depends on a person’s perspective. If Clare’s grandmother gives her \$20 for her birthday, Clare might see this as +20, because to her, the amount of money she has increased. But her grandmother might see it as -20, because to her, the amount of money she has decreased.
+In general, when using positive and negative numbers to represent changes, we have to be very clear about what it means when the change is positive and what it means when the change is negative.
+Video Summary
+End of Lesson

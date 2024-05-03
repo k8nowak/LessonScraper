@@ -1,0 +1,132 @@
+Start of Lesson
+Lesson
+Combining Like Terms (Part 1)
+Lesson Narrative
+In this lesson, students have a chance to recall one way of understanding equivalent expressions, that is, the expressions have the same value for any number substituted for a variable. Then they use properties they have studied over the past several lessons to understand how to properly write an equivalent expression using fewer terms. We are gently building up to students being able to fluently combine like terms, though that language is not used with students yet.
+Learning Goals
+Teacher Facing
+Apply properties of operations to justify (orally and in writing) that expressions are equivalent.
+Generate an expression that is equivalent to a given expression with fewer terms.
+Interpret different methods for determining whether expressions are equivalent, and evaluate (orally) their usefulness.
+Student Facing
+Let's see how we can tell that expressions are equivalent.
+Learning Targets
+Student Facing
+I can figure out whether two expressions are equivalent to each other.
+When possible, I can write an equivalent expression that has fewer terms.
+CCSS Standards
+Building On
+6.EE.A.4
+Addressing
+7.EE.A.1
+Building Towards
+7.EE.A.1
+Lesson Title:
+Combining Like Terms (Part 1)
+
+
+20.1: Why is it True? (10 minutes)
+CCSS Standards
+Building On
+6.EE.A.4
+Building Towards
+7.EE.A.1
+The purpose of this warm-up is to remind students about a few algebraic moves they have studied in the past several lessons by prompting them to explain the reason the moves are allowed. These moves are important to understand as students work toward fluency in writing expressions with fewer terms. Although this activity isn't properly a Number Talk, a similar routine can be followed.
+Display one statement at a time. Give students 30 seconds of quiet think time for each statement and ask them to give a signal when they have an explanation. Keep all problems displayed throughout the talk. Follow with a whole-class discussion.
+Explain why each statement is true.
+\(5+2+3=5+(2+3)\)
+\(9a\) is equivalent to \(11a-2a\).
+\(7a+4-2a\) is equivalent to \(7a+\text-2a+4\).
+\(8a-(8a-8)\) is equivalent to 8.
+Ask students to share their reasons why each statement is true. Record and display their responses for all to see. Highlight correct use of precise, mathematical language and give students opportunities to revise their response to be more precise.
+To involve more students in the conversation, consider asking:
+“Who can restate ___’s reasoning in a different way?”
+“Did anyone have the same reason but would explain it differently?”
+“Does anyone want to add on to _____’s reason?” “Do you agree or disagree? Why?”
+
+
+20.2: A’s and B’s (10 minutes)
+CCSS Standards
+Building Towards
+7.EE.A.1
+Routines and Materials
+Instructional Routines
+MLR8: Discussion Supports
+In this activity students see an example of why applying properties is the only reliable way to decide whether two expressions are equivalent. They begin by substituting a value of the variable into expressions believed to be equivalent, and discover that the expressions are equal for that value. They then substitute other values and find that one of the expressions has a different value than the others. Students follow up by expanding the terms of the expression to consider each instance of the variables individually, and uncover the properties applied in each step of writing the expression with fewer terms.
+Display the first part of the task statement for all to see:
+Diego and Jada are both trying to write an expression with fewer terms that is equivalent to \(\displaystyle 7a + 5b - 3a + 4b\)
+Jada thinks \(10a + 1b\) is equivalent to the original expression.
+Diego thinks \(4a + 9b\) is equivalent to the original expression.
+Remind students that we can tell whether the expressions are equivalent by substituting some different values for \(a\) and \(b\) and evaluating the expressions.
+First, ask students to substitute the values \(a=4\) and \(b = 3\) and evaluate the original expression, Jada’s expression, and Diego’s expression. Both expressions come out to 43. Perhaps these are both equivalent to the original expression?
+Then, ask students to choose some different values for \(a\) and \(b\) and evaluate: the original expression, Jada’s expression, and Diego’s expression. For any other values of \(a\) and \(b\), Jada and Diego's expressions do not evaluate to the same thing. For example, for \(a=1\) and \(b=1\), the original is 13, Jada's expression is 11, and Diego's is 13.
+The outcome of Diego's expression will match the original expressions, and Jada's will not.
+Tell students that experimenting with numbers can tell us that two expressions are not equivalent, but can't prove that two expressions are equivalent. For example, Jada and Diego's expressions yielded the same outcome for \(a=4\) and \(b = 3\), but aren't equivalent. For that, we need to reason about the expressions using the properties that we know.
+Arrange students in groups of 2. Allow 6–7 minutes quiet work time and partner discussions followed by a whole class discussion.
+Diego and Jada are both trying to write an expression with fewer terms that is equivalent to \(\displaystyle 7a + 5b - 3a + 4b\)
+Jada thinks \(10a + 1b\) is equivalent to the original expression.
+Diego thinks \(4a + 9b\) is equivalent to the original expression.
+We can show expressions are equivalent by writing out all the variables. Explain why the expression on each row (after the first row) is equivalent to the expression on the row before it.\(\displaystyle 7a+5b-3a+4b\) \(\displaystyle (a+a+a+a+a+a+a) + (b+b+b+b+b) - (a+a+a) + (b+b+b+b)\) \(\displaystyle (a+a+a+a) + (a+a+a) + (b+b+b+b+b) - (a+a+a) + (b+b+b+b)\) \(\displaystyle (a+a+a+a) + (b+b+b+b+b) + (a+a+a) - (a+a+a) + (b+b+b+b)\) \(\displaystyle (a+a+a+a) + (b+b+b+b+b) + (b+b+b+b)\) \(\displaystyle (a+a+a+a) + (b+b+b+b+b+b+b+b+b)\) \(\displaystyle 4a + 9b\)
+Here is another way we can rewrite the expressions. Explain why the expression on each row (after the first row) is equivalent to the expression on the row before it. \(\displaystyle 7a+5b-3a+4b\) \(\displaystyle 7a+5b+(\text-3a)+4b\) \(\displaystyle 7a+(\text-3a)+5b+4b\) \(\displaystyle (7+\text-3)a+(5+4)b\) \(\displaystyle 4a+9b\)
+Follow the instructions for a number puzzle:
+Take the number formed by the first 3 digits of your phone number and multiply it by 40
+Add 1 to the result
+Multiply by 500
+Add the number formed by the last 4 digits of your phone number, and then add it again
+Subtract 500
+Multiply by \(\frac12\)
+What is the final number?
+How does this number puzzle work?
+Can you invent a new number puzzle that gives a surprising result?
+Teachers with a valid work email address can click here to register or sign in for free access to Extension Student Response.
+Students may think the expressions are equivalent after finding them equal for \(a=4\) and \(b = 3\). Remind them that equivalent expressions must be equal for every possible value of the variable.
+Students might have trouble describing the moves in the last two questions and justifying that the expressions are equivalent. Encourage students to closely examine the changes from row to row and consider why they do not change the value of the expression.
+Invite students to justify that the steps taken by Diego do not change the value of the expressions. Emphasize places where he used the distributive property and the commutative property.
+Ask students which method they prefer (substituting values or using the properties of operations) for telling whether expressions are equivalent. Explain that while checking values can give us useful information, there is usually no way to check all possible values. That is why it is important to have some algebraic methods to rely on.
+
+
+20.3: Making Sides Equal (15 minutes)
+CCSS Standards
+Addressing
+7.EE.A.1
+Routines and Materials
+Instructional Routines
+MLR8: Discussion Supports
+In this activity, students use what they have learned so far to find a missing term that makes two expressions equivalent. They have many tools at their disposal to reason about the missing term. For example, for the first problem \(6x+{?}=10x\), they might reason as in the last activity and write out the sum of 6 \(x\)'s and ? on one side, and a string of 10 \(x\)'s on the other side, and reason that 4 \(x\)'s are needed to make the sides equivalent. Alternatively, they might reason with the distributive property, and rewrite the left side as \(x(6+{?})=10x.\) These alternative ways of reasoning about equivalent expressions should be highlighted in the discussion.
+Arrange students in groups of 2. Explain that they will use what they have learned so far to find a missing term that will make two expressions equivalent. Draw their attention to the instructions, which instruct students to complete the first set of problems, check in with their partner, and then proceed. If desired, you might ask students to pause after the first set for whole-class discussion.
+Replace each ? with an expression that will make the left side of the equation equivalent to the right side.
+Set A
+\(6x+{?}=10x\)
+\(6x+{?}=2x\)
+\(6x+{?}=\text-10x\)
+\(6x+{?}=0\)
+\(6x+{?}=10\)
+Check your results with your partner and resolve any disagreements. Next move on to Set B.
+Set B
+\(6x - {?}= 2x\)
+\(6x - {?} = 10x\)
+\(6x - {?} = x\)
+\(6x - {?} = 6\)
+\(6x - {?} = 4x-10\)
+Ask students to share their expressions for each problem. Record and display their responses for all to see. After each student shares, ask the class if they agree or disagree.
+The following questions, when applicable, can be used as students share:
+“Why didn't you combine \(x\) terms and numbers?” (Rewriting expressions using the properties of multiplication or the distributive property shows why this doesn't result in an equivalent expression.)
+“How did you decide on the components of the missing term?”
+“Did you use the commutative property?”
+“Did you use the distributive property?”
+Lesson Synthesis
+Consider asking students to choose one of these questions, think about it quietly for a few minutes, and then explain it to their partner either verbally or in writing. Their partner listens or reads carefully, and asks any clarifying questions if they don't fully understand.
+“What are some ways we can tell that \(7x+2\) is not equivalent to \(9x\)?”
+“Someone is doubtful that \(3b-8b\) is equivalent to \(\text-5b\), but they do understand the distributive property. How could you convince them that these expressions are equivalent?”
+“What are some ways we could rearrange the terms in the expression \(\text-2x+6y-6x+15y\) and create an equivalent expression?”
+20.4: Cool-down - Fewer Terms (5 minutes)
+CCSS Standards
+Addressing
+7.EE.A.1
+Teachers with a valid work email address can click here to register or sign in for free access to Cool-Downs.
+Student Lesson Summary
+There are many ways to write equivalent expressions that may look very different from each other. We have several tools to find out if two expressions are equivalent.
+Two expressions are definitely not equivalent if they have different values when we substitute the same number for the variable. For example, \(2(\text-3+x)+8\) and \(2x+5\) are not equivalent because when \(x\) is 1, the first expression equals 4 and the second expression equals 7.
+If two expressions are equal for many different values we substitute for the variable, then the expressions may be equivalent, but we don't know for sure. It is impossible to compare the two expressions for all values. To know for sure, we use properties of operations.  For example, \(2(\text-3+x)+8\) is equivalent to \(2x+2\) because:
+\(\begin{align} 2(\text-3+x)+8\\ \text-6+2x+8 & \quad\text{by the distributive property}\\ 2x+\text-6+8 & \quad\text{by the commutative property}\\ 2x+(\text-6+8) & \quad\text{by the associative property} \\ 2x+2 \\ \end{align}\)
+End of Lesson

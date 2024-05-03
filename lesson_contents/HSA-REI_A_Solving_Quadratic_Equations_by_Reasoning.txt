@@ -1,0 +1,118 @@
+Start of Lesson
+Lesson
+Solving Quadratic Equations by Reasoning
+Lesson Narrative
+In this lesson, students begin to solve quadratic equations by reasoning about what values would make the equations true and by using structure in the equations. The idea that some quadratic equations have two solutions is also made explicit. Students may begin to record their reasoning process as steps for solving, but this is not critical at this point as it will be emphasized in a later lesson.
+As students reason about an equation, they may intuitively perform the same operation on each side of the equal sign to get closer to the solution(s). When they reach equations of the form \(x^2=\text{some number}\), it is important to refrain from telling students to “take the square root of each side.” Instead, focus on reasoning about values that would make the equation true (MP2).
+For example, to solve \(4x^2=100\), we could divide each side by 4 and get \(x^2=25\). Encourage students to interpret this equation as: “Some number being squared gives 25” and to reason: “There are two different values that can be squared to get 25: -5 and 5.”
+Reasoning this way helps to curb two common misconceptions:
+that the only solution to an equation such as \(x^2=25\) is \(\sqrt{25}\). Each positive number has two square roots, one positive and the other negative. By convention, the radical symbol \(\sqrt{\phantom{3}}\) refers to the positive square root. So the number \(\sqrt{25}\) refers only to the positive square root of 25 and does not capture the negative square root.
+that squaring is invertible. The inverse of an operation undoes that operation. Suppose we multiply a number by 8. Dividing the product by 8 takes us back to the original number, so we say that division by 8 is the inverse operation of multiplication by 8, and that multiplication by 8 is invertible.
+Suppose we square -3, which gives 9. The operation of taking the square root using radical symbol takes 9 to \(\sqrt 9\), which is positive 3, not the original number. Because there are two possible numbers whose square is 9, we don’t consider squaring to be invertible.
+When solving an equation such as \(x^2=49\), these notations are commonly used to express the solutions:
+\(x = 7\) or \(x = \text-7\)
+\(x = 7\) and \(x = \text-7\)
+The use of “or” is really a shorthand for: "If \(x\) is a number such that \(x^2=49\), then \(x=7\) or \(x=\text-7\).” The use of “and” is a shorthand for: “Both \(x=7\) and \(x=\text-7\) are values that make the equation \(x^2=49\) true." Either notation can be appropriate, depending on how the question is stated.
+Technology isn't required for this lesson, but there are opportunities for students to choose to use appropriate technology to solve problems. Consider making technology available.
+Solving the problems in the lesson gives students many opportunities to engage in sense making, perseverance, and abstract reasoning (MP1, MP2).
+Learning Goals
+Teacher Facing
+Find the solutions to simple quadratic equations and justify (orally) the reasoning that leads to the solutions.
+Understand that a quadratic equation may have two solutions.
+Student Facing
+Let’s find solutions to quadratic equations.
+Learning Targets
+Student Facing
+I can find solutions to quadratic equations by reasoning about the values that make the equation true.
+I know that quadratic equations may have two solutions.
+CCSS Standards
+Addressing
+HSA-REI.A.1
+HSA-REI.B.4.b
+Lesson Title:
+Solving Quadratic Equations by Reasoning
+
+
+3.1: How Many Solutions? (10 minutes)
+CCSS Standards
+Addressing
+HSA-REI.A.1
+HSA-REI.B.4.b
+Previously, students saw that a function could have two input values that give the same output value (which could be 0). The input values were primarily interpreted in terms of a situation. In this warm-up, students begin to think more abstractly about this process—in terms of finding the solutions to an equation. They recognize that some quadratic equations have one solution and others have two.
+All of the equations can be solved by reasoning and do not require formal knowledge of algebraic methods such as rewriting into factored form or completing the square. For example, for \(x^2 -1 = 3\), students can reason that \(x^2\) must be 4 because that is the only number that, when subtracted by 1, gives 3.
+Finding the solutions of these equations, especially the last few equations, requires perseverance in making sense of problems and of representations (MP1).
+Ask students to evaluate \(4 \boldcdot 4\) and \(\text-4 \boldcdot(\text-4)\). Make sure they recall that both products are positive 16.
+How many solutions does each equation have? What are the solution(s)? Be prepared to explain how you know.
+\(x^2 = 9\)
+\(x^2 =0\)
+\(x^2 -1 = 3\)
+\(2x^2 = 50\)
+\((x+1)(x+1)=0\)
+\(x(x-6)=0\)
+\((x-1)(x-1)=4\)
+When solving \(2x^2=50\), some students may confuse \(2x^2\) with \((2x)^2\) and conclude that the solutions are \(\frac{\sqrt{50}}{2}\) and \(\text-\frac{\sqrt{50}}{2}\). Clarify that \(2x^2\) means 2 times \(x^2\), and that the only thing being squared is the \(x\). If both the 2 and \(x\) are squared, a pair of parentheses is used to group the 2 and the \(x\) so that we know both are being squared.
+Ask students to share their responses and reasoning. After each student explains, ask the class if they agree or disagree and discuss any disagreements.
+Make sure students see that in cases such as \(x(x-6)=0\) and \((x-1)(x-1)=4\), the solutions to each equation may not necessarily be opposites, as was the case in the preceding equations. For example, in the last question, we want to find a number that produces 4 when it is squared. That number can be 2 or -2. If the number is 2, then \(x\) is 3. If the number is -2, then \(x\) is -1.
+If time permits, discuss questions such as:
+"The equation \((x+1)(x+1)=0\) has only one solution, while \((x-1)(x-1)=4\) has two. Why is that?" (The former has only one solution because the only number that equals 0 when squared is 0 itself. The latter has two solutions because there are two numbers that, when squared, equal 4.)
+"In an equation like \(x(x-6)=0\), how can we tell that there are two solutions?" (There are two factors here, either of which could make the product 0.)
+
+
+3.2: Finding Pairs of Solutions (25 minutes)
+CCSS Standards
+Addressing
+HSA-REI.B.4.b
+Routines and Materials
+Instructional Routines
+Anticipate, Monitor, Select, Sequence, Connect
+MLR7: Compare and Connect
+In this activity, students encounter quadratic equations that are slightly more elaborate than those in the warm-up but that can still be solved by reasoning in various ways.
+Students’ approaches likely vary in efficiency and effectiveness. Monitor for students who:
+Substitute different values for \(n\) until hitting on the ones that work.
+Use technology to make a table and looking for the target value.
+Use technology to graph \(y = \text{left side of equation}\) and \(y=\text{right side of equation}\) and find the intersection.
+Reason about and make use of the structure in the equations. For example, seeing \(432=3n^2\) as “432 is 3 times something squared” will lead to 144 as the “something squared” and 12 and -12 as the “something.” Seeing \((n-5)^2=100\) as “something squared is 100” enables them to arrive at 10 and -10 for the value of \(n-5\), and then reason that \(n\) must be 15 or -5.
+Solve algebraically, by performing the same operation to each side of the equation, and when arriving at an equation of the form \(n^2 = \text {some number}\), reasoning that the solutions (the values of \(n\)) are the positive and negative square roots of that number.
+Identify students who use these strategies and ask them to share during the classroom discussion. Alternatively, consider arranging for students who use the same strategy to discuss and then prepare to share their approach.
+Students who use technology to solve the equations engage in choosing tools strategically (MP5). Those who solve by analyzing and taking advantage of the composition of the equations practice making use of structure (MP7).
+Consider arranging students in groups of 2 and asking them to work quietly for a few minutes before discussing their thinking with a partner.
+Give students access to graphing technology and spreadsheet tool, if requested.
+Each of these equations has two solutions. What are they? Explain or show your reasoning.
+\(n^2+4=404\)
+\(432=3n^2\)
+\(144=(n+1)^2\)
+\((n-5)^2-30=70\)
+How many solutions does the equation \((x-3)(x+1)(x+5)=0\) have? What are the solutions?
+How many solutions does the equation \((x-2)(x-7)(x-2)=0\) have? What are the solutions?
+Write a new equation that has 10 solutions.
+Teachers with a valid work email address can click here to register or sign in for free access to Extension Student Response.
+Select previously identified students to present their strategies in order of their efficiency, as listed in the Activity Narrative. Where appropriate, help students to make connections between the different strategies. For example, ask students how graphing the expression on each side of the equation and finding the intersection is similar to substituting values for \(n\) until they find one that works.
+If no students reasoned about the solutions algebraically, be sure to demonstrate it (without saying “take the square root of each side”) and to record the reasoning process for all to see. For example:
+We can interpret \(n^2+4=404\) as “something plus 4 is 404.” That “something” must be 400, so we can write \(n^2=400\). This equation means “something times itself is 400.” That “something” must be 20 or -20, because they each give 400 when squared. The two solutions are therefore 20 and -20.Point out that the reasoning that took us from \(n^2+4=404\) to \(n^2=400\) gave the same equation as subtracting 4 from each side of the original equation.
+We can interpret \(n^2+4=404\) as “something plus 4 is 404.” That “something” must be 400, so we can write \(n^2=400\). This equation means “something times itself is 400.” That “something” must be 20 or -20, because they each give 400 when squared. The two solutions are therefore 20 and -20.
+Point out that the reasoning that took us from \(n^2+4=404\) to \(n^2=400\) gave the same equation as subtracting 4 from each side of the original equation.
+We can see \(144=(n+1)^2\) as “144 is something squared,” so the “something” is either 12 or -12. We can represent this with \(n+1=12\) and \(n+1=\text-12\). The solutions are 11 and -13.
+Lesson Synthesis
+To help students generalize their reasoning and attend more closely to the structure of quadratic equations, consider revisiting the equations from the lesson and prompting students to articulate what the equations might reveal about the solutions. For example:
+Display the equations from the warm-up. Ask students if they can tell (without referring to the solutions they found earlier and without solving again) if an equation would have 0, 1, or 2 solutions.
+Display the equations from the first activity. Ask students if they can tell (without referring to the solutions they found earlier) which equations will have two solutions that are opposites (such as 5 and -5) and which will have two solutions that are not opposites (such as 3 and 7).
+3.3: Cool-down - Find Both Solutions (5 minutes)
+CCSS Standards
+Addressing
+HSA-REI.B.4.b
+Teachers with a valid work email address can click here to register or sign in for free access to Cool-Downs.
+Student Lesson Summary
+Some quadratic equations can be solved by performing the same operation to each side of the equal sign and reasoning about values of the variable would make the equation true.
+Suppose we wanted to solve \(3(x+1)^2-75=0\). We can proceed like this:
+Add 75 to each side:
+\(3(x+1)^2 = 75\)
+Divide each side by 3:
+\((x+1)^2 = 25\)
+What number can be squared to get 25?
+\(\left( \boxed{\phantom{300}} \right)^2=25\)
+There are two numbers that work, 5 and -5:
+\(5^2=25\) and \((\text-5)^2=25\)
+If \(x+1 = 5\), then \(x=4\).
+If \(x+1 = \text-5\), then \(x=\text-6\).
+This means that both \(x=4\) and \(x=\text-6\) make the equation true and are solutions to the equation.
+End of Lesson

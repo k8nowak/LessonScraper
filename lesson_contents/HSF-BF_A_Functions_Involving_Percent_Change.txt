@@ -1,0 +1,167 @@
+Start of Lesson
+Lesson
+Functions Involving Percent Change
+Lesson Narrative
+This is the first of several lessons that develop students' ability to use exponential expressions (and eventually functions) to model repeated interest calculations. Students graph the associated exponential functions for different interest rates. Though the term compounding is not yet used with students, the activities help students see that, in the context of borrowing money, high interest rates and compounding do not favor the borrower. In later lessons, students will learn that the same mechanisms can be favorable in the context of saving money.
+To represent compounded interest with an exponential expression or an exponential function, students need to realize that the process of repeatedly applying, say, 5% interest \(n\) times, is the same as multiplying by \((1.05)^n\). This is an example of looking for and expressing regularity in repeated reasoning (MP8).
+Learning Goals
+Teacher Facing
+Calculate the result of applying a percent increase repeatedly and write the result as a numerical value and expression.
+Use graphs to illustrate and compare situations in which different percent increases are applied to the same initial value.
+Write an expression of the form $(1+r)^n$ to represent a percent increase applied $n$ times.
+Student Facing
+Let's investigate what happens when we repeatedly apply a percent increase to a quantity.
+Required Materials
+Graphing technology
+Required Preparation
+Acquire devices that can run Desmos (recommended) or other graphing technology. It is ideal if each student has their own device. (Desmos is available under Math Tools.)
+Learning Targets
+Student Facing
+I can use graphs to illustrate and compare different percent increases.
+I can write a numerical expression or an algebraic expression to represent the result of applying a percent increase repeatedly.
+CCSS Standards
+Building On
+7.EE.B.3
+Addressing
+HSF-BF.A.1
+HSF-BF.A.1.a
+HSF-IF.B.6
+HSF-IF.C.7.e
+HSF-LE.A.2
+Building Towards
+HSF-LE.A.2
+Lesson Title:
+Functions Involving Percent Change
+
+15.1: Dandy Discounts (5 minutes)
+CCSS Standards
+Building On
+7.EE.B.3
+In a previous lesson, students worked on expressing percent change using multiplication. Here they see a situation in which a percent change is applied twice, first on the initial amount, and then on the amount that results from the first percent change. The multiplicative way of expressing the change is particularly helpful in such a situation. The example uses a familiar context of sales and discounts. The repeated decay results from applying a factor that is less than 1 more than once.
+All books at a bookstore are 25% off. Priya bought a book originally priced at $32. The cashier applied the storewide discount and then took another 25% off for a coupon that Priya brought. If there was no sales tax, how much did Priya pay for the book? Show your reasoning.
+Students may have chosen to calculate the price after each discount separately. For instance, they may have found the cost after the first discount to be $24 (because \(32 \boldcdot (0.75)=24\) or \(32 - (0.25) \boldcdot 32=24\)), and then calculated \(24 \boldcdot (0.75)\) or \(24 - (0.25) \boldcdot 24\). To help them see the repeated multiplication by a factor, consider recording their steps without evaluating any step.
+Focus the discussion on different expressions that can be used to efficiently calculate the final cost of the book, for instance:
+\(32 \boldcdot (0.75) \boldcdot (0.75)\)
+\((0.75) \boldcdot (0.75) \boldcdot 32\)
+\(\frac{3}{4} \boldcdot \left( \frac{3}{4} \boldcdot 32\right)\)
+
+
+15.2: Owing Interests (20 minutes)
+CCSS Standards
+Addressing
+HSF-BF.A.1.a
+Building Towards
+HSF-LE.A.2
+Routines and Materials
+Instructional Routines
+MLR6: Three Reads
+In this activity, students use exponential expressions to describe and make sense of repeated percent increase in a borrowing context. An essential point here is that, in each repetition, the value being increased by a percent is not the same as the initial value. Instead, it includes previous increases.
+To express this repetition more generally, it is important for them to represent the percent increase using multiplication. For example, if a baseball card is valued at $15 and increases in value by 10% each year, there are many ways to write the value of the card, in dollars, after one year including:
+\(16.50\)
+\(15 + 1.50\)
+\(15 + (0.1) \boldcdot 15\)
+\(15 \boldcdot (1+0.1)\)
+\(15 \boldcdot (1.1)\)
+The first three expressions are not particularly helpful for finding the value after 2 years or 3 years. The last two expressions, however, can be applied any number of times, giving the value, after \(t\) years:
+\(15 \boldcdot (1+0.1)^t\)
+\(15 \boldcdot (1.1)^t\)
+Look for students who write expressions using multiplication and invite them to share during the discussion. Note that the expression \(15 \boldcdot(1+0.1)^t\) is a very important way to express a 10 percent increase, even though it involves addition. If any students write 1.18 as \((1 + 0.18)\) in this task, make sure to invite them to share during the discussion.
+Ask students what they know about how loans work. If students are unfamiliar with the idea of interest on loans, give a brief overview. Explain that a person or a bank may lend money to someone who needs it. In return, the lender would collect interest, which is a percentage of the loan, until the loan is paid. For instance, if Person A decides to borrow \$400 from a lender at a 10% interest rate calculated yearly, then after one year Person A will need to pay the lender \(400 \boldcdot (0.1)\) or \$40 in interest, in addition to returning the borrowed amount.
+Arrange students in groups of 2. After the second question, discuss:
+How did you calculate the amounts in year 1, 2, and 3?
+Could you have found the amount in year 2 without calculating year 1? Could you have found the amount in year 3 without year 2?
+To get a new computer, a recent college graduate obtains a loan of \$450. She agrees to pay 18% annual interest, which will apply to any money she owes. She makes no payments during the first year.
+How much will she owe at the end of one year? Show your reasoning.
+Assuming she continues to make no payments to the lender, how much will she owe at the end of two years? Three years?
+To find the amount owed at the end of the third year, a student started by writing: \(\displaystyle \text{[Year 3 Amount]}=\text{[Year 2 Amount]} + \text{[Year 2 Amount]} \boldcdot (0.18)\) and ended with \(\displaystyle = 450\boldcdot (1.18)\boldcdot(1.18)\boldcdot(1.18)\) .Does her final expression correctly reflect the amount owed at the end of the third year? Explain or show your reasoning.
+Write an expression for the amount she owes at the end of \(x\) years without payment.
+Start with a line segment of length 1 unit. Make a new shape by taking the middle third of the line segment and replacing it by two line segments of the same length to reconnect the two pieces. Repeat this process over and over, replacing the middle third of each of the remaining line segments with two segments each of the same length as the segment they replaced, as shown in the figure.
+Image description: Pattern.
+Description: <p>A pattern in 4 steps. Step 1, horizontal line. Step 2, horizontal line with middle section replaced with equilateral triangle with no bottom. Step 3, first and last third smaller versions of step 2, middle third of each side of equilateral triangle replaced with smaller equilateral triangle with no bottom. Step 4 repeats the process.</p>
+Image description: Pattern.
+What is the total length of the figure after one iteration of this process (the second shape in the diagram)? After two iterations? After \(n\) iterations? Experiment with the value of your expression for large values of \(n\).
+Teachers with a valid work email address can click here to register or sign in for free access to Extension Student Response.
+Some students may have trouble finding the general expression for the amount owed after \(x\) years. Suggest they work with expressions that use the original $450 for each year of the loan until a pattern becomes apparent.
+The discussion should aim to clarify the path toward the final expression \(450\boldcdot (1.18)^x\). Here is one way to clarify how the process of finding the amount owed for any year could be generalized, and how the generalized expression simplifies the calculation:
+Year 1
+\(\begin {align} \text{[Starting Amount]} + \text{[Starting Amount]} \boldcdot (0.18)\\ =450 + 450 \boldcdot (0.18)\\ =450 \boldcdot (1+0.18)\\ =450 \boldcdot (1.18)\\ \end {align}\)
+Year 2
+\(\begin {align} \text{[Year 1 Amount]} + \text{[Year 1 Amount]} \boldcdot (0.18)\\ =[450\boldcdot (1.18)] + [450 \boldcdot(1.18)] \boldcdot (0.18)\\ =[450 \boldcdot(1.18)] \boldcdot (1+0.18)\\ =450\boldcdot(1.18)\boldcdot(1.18)\\ \end {align}\)
+Year 3
+\(\begin {align} \text{[Year 2 Amount]} + \text{[Year 2 Amount]} \boldcdot (0.18)\\ =[450\boldcdot(1.18)\boldcdot(1.18)] + [450\boldcdot(1.18)\boldcdot(1.18)] \boldcdot (0.18)\\ =[450\boldcdot(1.18)\boldcdot(1.18)] \boldcdot (1+0.18)\\ =450\boldcdot(1.18)\boldcdot(1.18)\boldcdot(1.18)\\ =450\boldcdot(1.18)^3\\ \end {align}\)
+Year \(x\)
+\(450\boldcdot (1.18)^x\)
+Discuss questions (for the Year 2 calculations) such as:
+“In Step 2, what does the 450 (1.18)(0.18) represent?”
+“In Step 3, how does the (1 + 0.18) come about?”
+“In Step 4, how can we interpret the \((1.18)\boldcdot(1.18)\)?”
+Make sure students understand the meaning of each part of the final expression \(450 \boldcdot (1.18)^x\) in terms of the context:
+450 is the loan amount in dollars.
+1.18 is how much the amount owed on the loan changes after each year. Because no other payments are made, the initial balance is unchanged (this is the 1) and the 18% interest is applied on that initial balance (this is the 0.18).
+\(x\) represents the number of years the 18% interest has been applied.
+15.3: Comparing Loans (10 minutes)
+CCSS Standards
+Addressing
+HSF-BF.A.1
+HSF-IF.C.7.e
+HSF-LE.A.2
+Routines and Materials
+Instructional Routines
+Graph It
+MLR8: Discussion Supports
+Required Materials
+Graphing technology
+Students continue to explore financial situations that involve repeated percent increase. They compare the effects of repeatedly applying different interest rates to a balance and graph them to see the impacts on the amount owed over time. Students see that higher interest rates have an increasingly dramatic impact when compounded over many years on an unpaid balance.
+When graphing the functions, choosing an appropriate window may be challenging because the functions grow at very different rates. A small domain and range may appropriately show the 12% loan but result in the graphs for the 24% and 30.6% loans leaving the screen quickly. A large domain and range may appropriately show the 30.6% loan balance but make the 12% loan balance rate look constant.
+Students could experiment with different domain and range values, though that may not be efficient. Prompt them to consider calculating the values of some expressions in the table to help them set an appropriate window for showing all three graphs meaningfully.
+Students will likely produce continuous graphs although in the context the number of years is a whole number. The continuous graphs help to visualize how the different interest rates influence the balance. If some students plot only the end of year balances, consider inviting them to share their graphs during the discussion.
+Consider arranging students in groups of 3 so they could divide the work in the first question (each student writing expressions for one loan). Ask students to write expressions using only multiplication, as done in the previous lesson. Give students access to graphing technology.
+Suppose three people each have taken loans of $1,000 but they each pay different annual interest rates.
+For each loan, write an expression, using only multiplication, for the amount owed at the end of each year if no payments are made.	years without paymentLoan A				12%Loan B				24%Loan C				30.6%1   2   3   10   \(x\)
+['years without payment', 'Loan A12%', 'Loan B24%', 'Loan C30.6%']
+['1', ' ', ' ', ' ']
+['2', ' ', ' ', ' ']
+['3', ' ', ' ', ' ']
+['10', ' ', ' ', ' ']
+['\\(x\\)', ' ', ' ', ' ']
+Use graphing technology to plot the graphs of the account balances.
+Based on your graph, about how many years would it take for the original unpaid balance of each loan to double?
+Students may attempt to write very long expressions in the last two rows of the table. Encourage them to think back to other notation that can be used to represent multiplying by the same value multiple times.
+Select groups to share their responses. To involve more students in the discussion, ask if others obtained the same results or reasoned the same way. If not, invite them to share their responses or approaches.
+Review the meaning of the expressions for the loan balance after \(x\) years without payment. Make sure students understand that, for instance, the balance of the 12% loan after \(x\) years is \(1,\!000 \boldcdot (1.12)^x\) because the initial $1,000 is multiplied by 1.12 \(x\) times, once for each year that the 12% interest is charged.
+Display the graphs for all to see. Use them to highlight the impact that the different interest rates have on the owed amount, especially when the loan is left unpaid for a long period of time. This will be a recurring theme in the next several lessons. Also make sure students could use the graphs to estimate the time it takes each loan balance to double.
+15.4: Comparing Average Rates of Change (15 minutes)
+CCSS Standards
+Addressing
+HSF-IF.B.6
+In this activity, students investigate the average rates of change of the three loan options from an earlier activity. Calculating average rates of change over the same interval of time but at different points in the lending period (early and then later) further reinforces the dramatic change that can result from compounding over time.
+Recall the previous work students have done on the three loans (A, B, C) and tell students that they are going to examine how these loans change over different time intervals.
+The functions \(a\), \(b\), and \(c\) represent the amount owed (in dollars) for Loans A, B, and C respectively: the input for the functions is \(t\), the number of years without payments.
+For each loan, find the average rate of change per year between:	the start of the loan and the end of the second yearthe end of the tenth year and the end of the twelfth year
+the start of the loan and the end of the second year
+the end of the tenth year and the end of the twelfth year
+How do the average rates of change for the three loans compare in each of the two-year intervals?
+Select students to share their calculations for the average rates of change for each loan. Invite students to share their observations about how the different average rates of change compare. If not mentioned by students, ask them to quantify how the average rate of change increased between the two intervals for the different loans, such as by calculating how many times larger the value for the second interval is when compared the first.
+Lesson Synthesis
+We looked at how to express repeated interest calculations in this lesson. Present a simple example to help students synthesize what they learned.
+Suppose a homeowner borrows \$2,000 from a lender that charges 4% interest on the unpaid balance at the end of every year, and the homeowner does not make any payments.
+Discuss questions such as:
+“What expressions can we write to show the amount owed after 1 year and 2 years? After \(t\) years?”
+“To find the interest owed after 3 years, can we simply triple the interest charged after 1 year? Why or why not?”
+“Why can we represent an amount \(a\) increased by 4% as \(a \boldcdot (1.04)\)? How did the 1.04 come about?”
+15.5: Cool-down - Delayed Payments (5 minutes)
+CCSS Standards
+Addressing
+HSF-BF.A.1.a
+Teachers with a valid work email address can click here to register or sign in for free access to Cool-Downs.
+Student Lesson Summary
+When we borrow money from a lender, the lender usually charges interest, a percentage of the borrowed amount as payment for allowing us to use the money. The interest is usually calculated at a regular interval of time (monthly, yearly, etc.).
+Suppose you received a loan of \$500 and the interest rate is 15%, calculated at the end of each year. If you make no other purchases or payments, the amount owed after one year would be \(500 + (0.15) \boldcdot 500\), or \(500 \boldcdot(1+0.15)\). If you continue to make no payments or other purchases in the second year, the amount owed would increase by another 15%. The table shows the calculation of the amount owed for the first three years.
+['time in years', 'amount owed in dollars']
+['1', '\\(500 \\boldcdot(1+0.15)\\)']
+['2', '\\(500 \\boldcdot(1+0.15)(1+0.15)\\), or \\(500 \\boldcdot(1+0.15)^2\\)']
+['3', '\\(500 \\boldcdot(1+0.15)(1+0.15)(1+0.15)\\), or \\(500 \\boldcdot(1+0.15)^3\\)']
+The pattern here continues. Each additional year means multiplication by another factor of \((1+0.15)\). With no further purchases or payments, after \(t\) years the debt in dollars is given by the expression:
+\(\displaystyle 500\boldcdot(1+0.15)^t\)
+Since exponential functions eventually grow very quickly, leaving a debt unpaid can be very costly.
+End of Lesson

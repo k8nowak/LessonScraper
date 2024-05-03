@@ -1,0 +1,94 @@
+Start of Lesson
+Lesson
+Solving Radical Equations
+Lesson Narrative
+This lesson is optional because it is an opportunity for extra practice that not all classes may need. The goal of this lesson is for students to practice solving a variety of radical equations. In the last activity, students make sense of radical equations as they design their own equations to have different numbers of solutions (MP1).
+Technology isn’t required for this lesson, but there are opportunities for students to choose to use appropriate technology to solve problems. We recommend making technology available.
+Learning Goals
+Teacher Facing
+Calculate solutions to radical equations.
+Create radical equations that have either zero, one, or two solutions.
+Explain the steps taken to solve radical equations.
+Student Facing
+Let’s practice solving radical equations.
+Learning Targets
+Student Facing
+I can solve equations with radicals in them.
+CCSS Standards
+Addressing
+HSA-REI.A.2
+Lesson Title:
+Solving Radical Equations
+9.1: Math Talk: Radical Equations (5 minutes)
+CCSS Standards
+Addressing
+HSA-REI.A.2
+Routines and Materials
+Instructional Routines
+Math Talk
+MLR8: Discussion Supports
+This Math Talk encourages students to think about the structure of the equations to mentally solve problems (MP7). For example, where is the variable: inside or outside of the radical? Is it apparent from the structure of the equation that the last question does not have a solution? The goal is to encourage students to think about the meaning of the symbols in an equation before applying procedures to solve, which will be helpful later in the lesson when students solve radical equations strategically.
+Display one problem at a time. Give students quiet think time for each problem and ask them to give a signal when they have an answer and a strategy. Keep all problems displayed throughout the talk. Follow with a whole-class discussion.
+Solve these equations mentally:
+\(\sqrt[3]{x} = 1\)
+\(\sqrt{7} = \sqrt{x-1}\)
+\(\sqrt{100} = 2x\)
+\(\sqrt{x + 1} = \text{-}5\)
+Ask students to share their strategies for each problem. Record and display their responses for all to see. To involve more students in the conversation, consider asking:
+“Who can restate \(\underline{\hspace{0.3 in}}\)’s reasoning in a different way?”
+“Did anyone have the same strategy but would explain it differently?”
+“Did anyone solve the problem in a different way?”
+“Does anyone want to add on to \(\underline{\hspace{0.3 in}}\)’s strategy?”
+“Do you agree or disagree? Why?”
+  9.2: Getting to the Root of the Problem (15 minutes)
+CCSS Standards
+Addressing
+HSA-REI.A.2
+Routines and Materials
+Instructional Routines
+MLR3: Clarify, Critique, Correct
+This activity is optional because it includes additional practice students may not need. Students practice solving radical equations.
+Arrange students in groups of 2. Encourage students to discuss their thinking with their partner. If partners disagree, they should work to reach agreement.
+Find the solution(s) to each of these equations, or explain why there is no solution.
+\(\sqrt{a - 5} = 5\)
+\(\sqrt[3]{a - 5} = 5\)
+\( \sqrt[3]{b} = \text{-}2\)
+\(\sqrt{c} + 2 = 0\)
+\(\sqrt[3]{3 - d} + 4 = 0\)
+\(\sqrt{7} = \sqrt{x-1}\)
+\(\sqrt{36} = 3y\)
+\(22z = \sqrt[3]{11}\)
+Select students to share their responses. Be sure to include the equation \(\sqrt{c} + 2 = 0\) in the discussion since it is the only equation given that has no solution.
+
+
+9.3: Write Your Own Equation (15 minutes)
+CCSS Standards
+Addressing
+HSA-REI.A.2
+This activity is optional because it includes additional practice students may not need. Students create their own equations involving radicals that have different numbers of solutions. Generating new questions requires more innovative thinking than solving given equations, allowing students to better make sense of radical equations (MP1).
+Making graphing technology available gives students an opportunity to choose appropriate tools strategically (MP5).
+Arrange students in groups of 2. Give students 8–10 minutes of quiet work time followed by partner- and whole-class discussion.
+Write an equation that includes a radical symbol with:	one solutionno solutionstwo solutions
+one solution
+no solutions
+two solutions
+Switch with a partner and solve their equations.
+Find all solutions to the equation \(\sqrt{x} = \sqrt[3]{x}\). Explain how you know those are all of the solutions.
+Teachers with a valid work email address can click here to register or sign in for free access to Extension Student Response.
+If students struggle longer than is productive, suggest thinking of graphs of functions that have different numbers of intersection points. Also suggest using \(x^2\) somehow, since they know that \(x^2=k\) has 2 solutions for positive \(k\).
+Ask students to check their solutions with their partners. Ask students to share any equations they felt helped them learn the most and discuss those equations with the class. If any students used graphs to help figure out their equations, invite them to share and display their visuals for all to see.
+Lesson Synthesis
+In this lesson, students practiced solving various radical equations. Here are some questions for discussion:
+“What kinds of mistakes did you used to make with radical equations that you no longer make? What do you understand now that you didn’t before?” (I used to square each side before checking whether a positive square root was set equal to a negative number. Now I know that the \(\sqrt{}\) symbol means the positive square root, so I am aware to check that the equation makes sense before trying to solve it.)
+“What are some common mistakes that are easy to make with these types of equations, and what would you tell someone so that they will avoid those mistakes?” (It might be tempting to look at an equation with a cube root and cube each side right away, but it is easier to isolate the radical before cubing.)
+9.4: Cool-down - A Radical Notion (5 minutes)
+CCSS Standards
+Addressing
+HSA-REI.A.2
+Teachers with a valid work email address can click here to register or sign in for free access to Cool-Downs.
+Student Lesson Summary
+Whenever we have an equation with a radical symbol that contains a variable, we can solve it by isolating the radical and then raising each side of the equation to a power in order to get a new equation without radicals. Here is an example:
+\(\displaystyle \begin{align}\text- 4 &= \sqrt[3]{5p+1} \\ (\text- 4)^3 &= \left(\sqrt[3]{5p+1}\right)^3 \\ \text- 64 &= 5p +1 \\ \text- 65 &= 5p \\ \text- 13 &= p \end{align}\)
+Sometimes this results in an equation with solutions that do not make the original equation true. If we use this strategy, it is good to check the solutions to the new equation we got after raising each side to a power, to be sure they make the original equation true. In this example, we did find a solution to the original equation because \(\sqrt[3]{5(\text- 13)+1} = \text-4\).
+Another way to solve these equations is to reason about what the answer is, instead of raising each side to a power. For example, if we are solving \(\sqrt{1-x}+5 = 11\), we can rearrange it to get \(\sqrt{1-x}= 6\) and then think, “If the positive square root of \(1-x\) is 6, then \(1-x\) must be 36, since the positive square root of 36 is 6. So \(x\) must be \(\text-35\), since \(1-(\text-35)=36\).” If we check this result, we see that \(\text-35\) is a solution to the original equation because \(\sqrt{1- (\text-35)} + 5 = 11\).
+End of Lesson

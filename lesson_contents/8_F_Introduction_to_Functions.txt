@@ -1,0 +1,143 @@
+Start of Lesson
+Lesson
+Introduction to Functions
+Lesson Narrative
+In this second introductory lesson, students learn the term function for a rule that produces a single output for a given input. They also start to connect function language to language they learned in earlier grades about independent and dependent variables.
+We can say, "the output is a function of the input," and we also say, "the output depends on the input." In the optional activity, students see how it is possible to use different words to describe the same function as long as all input-output pairs are the same. This helps solidify the notion of a function as something different from the method of calculating its values.
+Learning Goals
+Teacher Facing
+Comprehend the structure of a function as having one and only one output for each allowable input.
+Describe (orally and in writing) a context using function language, e.g., “the [output] is a function of the [input]” or “the [output] depends on the [input]”.
+Identify (orally) rules that produce exactly one output for each allowable input and rules that do not.
+Student Facing
+Let’s learn what a function is.
+Learning Targets
+Student Facing
+I know that a function is a rule with exactly one output for each allowable input.
+I know that if a rule has exactly one output for each allowable input, then the output depends on the input.
+CCSS Standards
+Addressing
+8.F.A.1
+Building Towards
+8.F.A.1
+Glossary Entries
+function
+A function is a rule that assigns exactly one output to each possible input.
+The function \(y=6x+4\) assigns one value of the output, \(y\), to each value of the input, \(x\). For example, when \(x\) is 5, then \(y=6(5)+4\) or 34.
+A function is a rule that assigns exactly one output to each possible input.
+The function \(y=6x+4\) assigns one value of the output, \(y\), to each value of the input, \(x\). For example, when \(x\) is 5, then \(y=6(5)+4\) or 34.
+Lesson Title:
+Introduction to Functions
+
+
+2.1: Square Me (5 minutes)
+CCSS Standards
+Building Towards
+8.F.A.1
+The purpose of this warm-up is to remind students that two different numbers can have the same square. This is an example of two inputs having the same output for a given rule—in this case "square the number." Later activities in the lesson explore rules that have multiple outputs for the same input.
+Give students 1–2 minutes of quiet work time followed by a whole-class discussion.
+Here are some numbers in a list:
+1, -3, \(\text-\frac12\), 3, 2, \(\frac14\), 0.5
+How many different numbers are in the list?
+Make a new list containing the squares of all these numbers.
+How many different numbers are in the new list?
+Explain why the two lists do not have the same number of different numbers.
+The focus of this discussion should be on the final question, which, even though the language isn't used in the problem, helps prepare students for thinking about the collection of values that make up the input and output of rules. Here, the input is a list of 7 unique values while the output has only 5 unique values.
+Invite students to share their responses to the second problem and display the list of numbers for all to see along with the original list. Next, invite different students to share their explanations from the forth problem. Emphasize the idea that when we square a negative number, we get a positive number. This means two different numbers can have the same square, or, using the language of inputs and outputs, two different inputs can have the same output for a rule.
+If time allows, ask "Can you think of other rules where different inputs can have the same output?" After 30 seconds of quiet think time, select students to share their rules. They may recall the previous lesson where they encountered the rule "write 7," which has only one output for all inputs, and the rule "extract the digit in the tenths place," which has only 10 unique outputs for all inputs.
+
+
+2.2: You Know This, Do You Know That? (15 minutes)
+CCSS Standards
+Addressing
+8.F.A.1
+Routines and Materials
+Instructional Routines
+MLR8: Discussion Supports
+In this activity students are presented with a series of questions like, “A person is 60 inches tall. Do you know their height in feet?” For some of the questions the answer is "yes" (because you can convert from inches to feet by dividing by 12). In other cases the answer is "no" (for example, “A person is 14 years old. Do you know their height?”). The purpose is to develop students’ understanding of the structure of a function as something that has one and only one output for each allowable input. In cases where the answer is yes, students draw an input-output diagram with the rule in the box. In cases where the answer is no, they give examples of an input with two or more outputs. In the Activity Synthesis, the word function is introduced to students for the first time.
+Identify students who use different ways to describe the rules and different notation for the input and outputs of the final two problems.
+Display the example statement (but not the input-output diagram) for all to see.
+Example: A person is 60 inches tall. Do you know their height in feet?
+Give students 30 seconds of quiet think time, and ask them to be prepared to justify their response. Select students to share their answers, recording and displaying different justifications for all to see.
+Display the following input-output diagrams for all to see. Ask students if the rules in the diagrams match the justifications they just heard:
+Image description: Function rule diagram.
+or
+Tell students that they will draw input-output diagrams like these as part of the task. Answer any questions students might have around the input-output diagrams. Be sure students understand that if they answer yes to the question they will need to draw the input-output diagram and if they answer no they need to give an example of why the question does not have one answer.
+Give students 8–10 minutes of quiet work time for the problems followed by a whole-class discussion.
+Say yes or no for each question. If yes, draw an input-output diagram. If no, give examples of two different outputs that are possible for the same input.
+A person is 5.5 feet tall. Do you know their height in inches?
+A number is 5. Do you know its square?
+The square of a number is 16. Do you know the number?
+A square has a perimeter of 12 cm. Do you know its area?
+A rectangle has an area of 16 cm2. Do you know its length?
+You are given a number. Do you know the number that is \(\frac15\) as big?
+You are given a number. Do you know its reciprocal?
+The goal of this discussion is for students to understand that functions are rules that have one distinct output for each input. For several problems, select previously identified students to share their rule descriptions. For example, some students might write the rule for finding the area of a square from its perimeter as "find the side length then square it" and others might write, "divide by four and then square it." Compare the different rules and ask students if they agree (or disagree) that the statements represent the same rule.
+For the final two problems where the input is not a specific value, select previously identified students to share what language they used. For example, in the final problem some students may use a letter to stand for the input while others may just write "input" or "a number." Ask, "How can using a letter sometimes make it easier to represent the output?" (Writing "\(\frac15 n\)" is shorter than writing "\(\frac15\) of a number.")
+Tell students that each time they answered one of the questions with a yes, the sentence defined a function, and that one way to represent a function is by writing a rule to define the relationship between the input and the output. Functions are special types of rules where each input has only one possible output. Because of this, functions are useful since once we know and input, we can find the single output that goes with it. Contrast this with something like a rolling a number cube where the input "roll" has many possible outputs. For the questions students responded to with no, these are not functions because there is no single output for each input.
+To highlight how rules that are not functions do not determine outputs in a unique way, end the discussion by asking:
+"Was the warm-up, where you have to square numbers, an example of a function?" (Yes, each input has only one output, even though some inputs have the same output.)
+"Is the reverse, that is knowing what number was squared to get a specific number, a function?" (No, if a number squared is 16, we don't know if the number was 4 or -4.)
+
+
+2.3: Using Function Language (15 minutes)
+CCSS Standards
+Addressing
+8.F.A.1
+Routines and Materials
+Instructional Routines
+MLR2: Collect and Display
+Think Pair Share
+In this activity students revisit the questions in the previous activity and start using the language of functions to describe the way one quantity depends on another. For the "yes: questions students write a statement like, “[the output] depends on [the input]” and “[the output] is a function of [the input].” For the "no" questions, they write a statement like, “[the output] does not depend on [the input].” Students will use this language throughout the rest of the unit and course when describing functions.
+Depending on the time available and students' needs, you may wish to assign only a subset of the questions, such as just the odds.
+Display the example statement from the previous activity ("A person is 60 inches tall. Do you know their height in feet?") for all to see. Tell students that since the answer to this question is yes, we can write a statement like, "height in feet depends on the height in inches" or "height in feet is a function of height in inches."
+Arrange students in groups of 2. Give students 5–8 minutes of quiet work time and then additional time to share their responses with their partner. If they have a different response than their partner, encourage them to explain their reasoning and try to reach agreement. Follow with a whole-class discussion.
+Here are the questions from the previous activity. For the ones you said yes to, write a statement like, “The height a rubber ball bounces to depends on the height it was dropped from” or “Bounce height is a function of drop height.” For all of the ones you said no to, write a statement like, “The day of the week does not determine the temperature that day” or “The temperature that day is not a function of the day of the week.”
+A person is 5.5 feet tall. Do you know their height in inches?
+A number is 5. Do you know its square?
+The square of a number is 16. Do you know the number?
+A square has a perimeter of 12 cm. Do you know its area?
+A rectangle has an area of 16 cm2. Do you know its length?
+You are given a number. Do you know the number that is \(\frac15\) as big?
+You are given a number. Do you know its reciprocal?
+The goal of this discussion is for students to use the language like “[the output] depends on [the input]” and “[the output] is a function of [the input]” while recognizing that a function means each input gives exactly one output.
+Begin the discussion by asking students if any of them had a different response from their partner that they were not able to reach agreement on. If any groups say yes, ask both partners to share their responses. Next, select groups to briefly share their responses for the other questions and address any questions. For example, students may have a correct answer but be unsure since they used different wording than the person who shared their answer verbally with the class.
+If time permits, give groups 1–2 minutes to invent a new question like the ones in the task that is not a function. Select 2–3 groups to share their question and ask a different group to explain why it is not a function using language like, "the input does not determine the output because. . . ."
+2.4: Same Function, Different Rule? (5 minutes)
+CCSS Standards
+Addressing
+8.F.A.1
+Routines and Materials
+Instructional Routines
+MLR1: Stronger and Clearer Each Time
+The activity calls back to a previous lesson where students filled out tables of values from input-output diagrams. Here, students determine if a rule is describing the same function but with different words, giving them an opportunity to look for and make use of the structure of a function (MP7).
+Students are given 3 different input-output diagrams and need to determine which rules could describe the same function. A key point in this activity is that context plays an important role. For example, if the first rule is limited to positive inputs and the second rule is about sides of squares (which also has only positive inputs), then the two input-output rules describe the same function.
+Give students 1–2 minutes of quiet work time followed by a whole-class discussion.
+Design Principle(s): Optimize output (for explanation)
+Which input-output rules could describe the same function (if any)? Be prepared to explain your reasoning.
+Image description: Input-output rule diagram. Input, 7, right arrow, rule is, square it, right arrow, output, 49.
+Image description: Input-output rule diagram. Input, 10, right arrow, rule is find the area given the side-length, right arrow, output, 100.
+Image description: Input-output rule diagram. Input, 10, right arrow, rule is, add 90, right arrow, output, 100.
+The phrase “is a function of” gets used in non-mathematical speech as well as mathematical speech in sentences like, “The range of foods you like is a function of your upbringing.” What is that sentence trying to convey? Is it the same use of the word “function” as the mathematical one?
+Teachers with a valid work email address can click here to register or sign in for free access to Extension Student Response.
+The goal of this discussion is for students to explain how two different rules can describe the same function and that two functions are the same if and only if all of their input-output pairs are the same.
+Consider asking some of the following questions:
+"Do the latter two input-output rules describe the same function since they both take an input of 10 to an output of 100?" (No, every input-output pair needs to match in order for the two rules to describe the same function not just a few input-output pairs.)
+"Do any of the input-output rules describe the same function?" (Yes, if the first is restricted to positive inputs and the second is about areas of squares, then they share the same input-output pairs and describe the same function.)
+Lesson Synthesis
+The purpose of this lesson was to define functions as rules that assign exactly one output to each allowable input. We say things like “the output is a function of the input,” and “the output depends on the input” when talking about the relationship between inputs and outputs of functions.
+To highlight the language and definition of functions from the lesson, ask:
+“How else could we describe the function 'double the input'?” (Multiply the input by 2 or, if the input is \(x\), \(2x\).)
+“Is the rule 'the radius of a circle with circumference \(C\)' a function? Why or why not?” (Yes, this rule is a function because the radius of circle depends on the circumference and each radius gives only one circumference.)
+“Why does the description 'A person's age is 14 years old. What is their height in inches?' not define a function?” (The age of a person does not determine what height they are. Different 14 year olds are different heights. The same 14 year old can be different heights depending on how how long ago they turned 14.)
+2.5: Cool-down - Wait Time (5 minutes)
+CCSS Standards
+Addressing
+8.F.A.1
+Teachers with a valid work email address can click here to register or sign in for free access to Cool-Downs.
+Student Lesson Summary
+Let's say we have an input-output rule that for each allowable input gives exactly one output. Then we say the output depends on the input, or the output is a function of the input.
+For example, the area of a square is a function of the side length, because you can find the area from the side length by squaring it. So when the input is 10 cm, the output is 100 cm2.
+Image description: Function rule diagram, input, 10, right arrow, rule given is, find the area of a square given the side-length, right arrow, output 100.
+Sometimes we might have two different rules that describe the same function. As long as we always get the same, single output from the same input, the rules describe the same function.
+End of Lesson

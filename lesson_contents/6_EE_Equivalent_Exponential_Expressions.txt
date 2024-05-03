@@ -1,0 +1,140 @@
+Start of Lesson
+Lesson
+Equivalent Exponential Expressions
+Lesson Narrative
+In this lesson, students encounter expressions and equations with variables that also involve exponents. Students first evaluate expressions for given values of their variables. They learn that multiplication can be expressed without a dot or other symbol by placing a number, known as a coefficient, next to a variable or variable expression. In the next activity, students are presented with equations that contain a variable. They engage in MP7 by considering the structure of the equations and apply their understanding of exponents and operations to select a number from a list that, when replaced for the variable, makes the equation true. That number is a solution of the equation.
+Learning Goals
+Teacher Facing
+Describe (orally) the values that result from evaluating expressions in which a fraction is raised to a power.
+Determine whether a given value is a solution to an equation that includes an exponent.
+Evaluate expressions that have a variable, an exponent, and one other operation for a given value of the variable, carrying out the operations in the conventional order.
+Student Facing
+Let's investigate expressions with variables and exponents.
+Learning Targets
+Student Facing
+I can find solutions to equations with exponents in a list of numbers.
+I can replace a variable with a number in an expression with exponents and operations and use the correct order to evaluate the expression.
+CCSS Standards
+Addressing
+6.EE.A.1
+6.EE.A.2.c
+6.EE.B.5
+Lesson Title:
+Equivalent Exponential Expressions
+
+15.1: Up or Down? (10 minutes)
+CCSS Standards
+Addressing
+6.EE.A.1
+6.EE.A.2.c
+The purpose of this warm-up is for students to take two numbers to different powers and look for patterns. One number is a whole number and the other is a fraction that is the reciprocal of the whole number. Some students may notice they do not need to multiply \(\frac13\) after they complete the column for 3 because it is the reciprocal. This is a helpful pattern for students to notice, but also ask these students if their answer makes sense to ensure they understand the product is getting smaller as they multiply by further factors of \(\frac13\). Aside from the presence of exponents, these observations are largely a review of work from grade 5.
+As students complete the table, monitor and select students who can describe some of the following patterns:
+The products in the 3 column increase in value as the exponent increases.
+The products in the \(\frac13\) column decrease in value as the exponent increases.
+The products in the \(\frac13\) column are reciprocals of the products in the corresponding 3 column.
+Give students 2 minutes of quiet work time, followed by a whole-group discussion.
+Find the values of \(3^x\) and \(\left(\frac13\right)^x\) for different values of \(x\). What patterns do you notice?
+Some students may need to sketch a diagram to help them find a fraction of another fraction.
+Ask students to share responses to complete the table. Record and display the responses for all to see. Ask selected students to share the patterns they noticed in the table and ask others to explain why they think these patterns happen. If the following ideas do not arise from the students in the conversation, bring them to students’ attention:
+The products in the 3 column increase in value as the exponent increases.
+The products in the 3 column are multiplied by 3 each time you go down a row.
+The products in the \(\frac13\) column decrease in value as the exponent increases.
+The products in the \(\frac13\) column are multiplied by \(\frac13\) each time you go down a row.
+The products in the \(\frac13\) column are reciprocals of the products in the corresponding 3 column.
+
+15.2: What's the Value? (10 minutes)
+CCSS Standards
+Addressing
+6.EE.A.1
+6.EE.A.2.c
+Routines and Materials
+Instructional Routines
+MLR8: Discussion Supports
+In this activity, students first encounter exponential expressions with variables.
+Recall with students that when we write \(6x^2\), we mean to multiply 6 by the result of \(x^2\). Remind them that the number part of such a product is called the coefficient of the expression, so in this example, 6 is the coefficient of \(x^2\).
+Give students 5 minutes of quiet work time to evaluate the expressions. Follow with whole-class discussion.
+Evaluate each expression for the given value of \(x\).
+\(3x^2\) when \(x\) is 10
+\(3x^2\) when \(x\) is \(\frac19\)
+\(\frac{x^3}{4}\) when \(x\) is 4
+\(\frac{x^3}{4}\) when \(x\) is \(\frac12\)
+\(9+x^7\) when \(x\) is 1
+\(9+x^7\) when \(x\) is \(\frac12\)
+Students may use the wrong order when evaluating expressions, such as in multiplying by 3 first in \(3x^2\) and then squaring. Have them recall the last lesson where they practiced applying the agreed on order of operations in numeric expressions.
+Students may interpret an expression like \(3x\) as meaning 3 next to the digit \(x\) instead of as multiplication. For example, students may think that \(3x\) means 35 instead of 15 when \(x=5\). Discuss how the shorthand notation of coefficients next to variables with no symbols between them tells us to multiply, and that it will simplify future work with expressions and equations.
+The purpose of the discussion is to ensure that students understand how to evaluate expressions with variables for a given value of the variable. It is also an opportunity for students to practice interpreting and using vocabulary like coefficient, variable, power, and exponent.
+Some guiding questions:
+"In each expression, what is the coefficient?" (3, 3, \(\frac14\), \(\frac14\), 1, 1.)
+"Choose one of the expressions. Describe the steps that you carried out to evaluate the expression." (Sample response: I rewrote \(9+x^7\) as \(9+\left(\frac12\right)^7\). I needed to first evaluate the exponent. I knew that \(\left(\frac12\right)^7\) means \(\frac12 \boldcdot \frac12 \boldcdot \frac12 \boldcdot \frac12 \boldcdot \frac12 \boldcdot \frac12 \boldcdot \frac12\), which is \(\frac{1}{128}\). So then I wrote \(9 + \frac{1}{128}\), which can also be written \(9\frac{1}{128}\).
+"How is evaluating the expressions when \(x\) is a fraction similar to when \(x\) is a whole number?  How is it different?" (It's similar because you're still just multiplying \(x\) by itself a certain number of times. It's different because multiplying a fraction by a fraction is a bit more complicated than multiplying a whole number by itself.)
+
+15.3: Exponent Experimentation (15 minutes)
+CCSS Standards
+Addressing
+6.EE.A.2.c
+6.EE.B.5
+Routines and Materials
+Instructional Routines
+MLR3: Clarify, Critique, Correct
+In this activity, students continue their work with exponential expressions and recall what is meant by a solution to an equation as they look to replace a variable with a number that makes two expressions equivalent. Note that some of the equations also have solutions that are negative; however, since operations on negative numbers are not part of grade 6 standards, students are only expected to consider positive values in this task. This activity addresses student understanding of the meaning of the equal sign as one that supports work in algebra, namely, that the expressions on either side have the same value.
+Ask students to close their books or devices. Display the equation \(x^2=100\) and discuss what it would mean to find a solution to the equation. Remind students that a solution is a value for \(x\) that makes the equation true. Discuss why 10 is a solution, and why 50 is not a solution.
+Give students 10 minutes of quiet work time, followed by a whole-class discussion.
+Find a solution to each equation in the list. (Numbers in the list may be a solution to more than one equation, and not all numbers in the list will be used.)
+\(64=x^2\)
+\(64=x^3\)
+\(2^x=32\)
+\(x=\left( \frac25 \right)^3\)
+\(\frac{16}{9}=x^2\)
+\(2\boldcdot 2^5=2^x\)
+\(2x=2^4\)
+\(4^3=8^x\)
+List:
+\(\frac{8}{125}\)
+\(\frac{6}{15}\)
+\(\frac{5}{8}\)
+\(\frac89\)
+1
+\(\frac43\)
+2
+3
+4
+5
+6
+8
+This fractal is called a Sierpinski Tetrahedron. A tetrahedron is a polyhedron that has four faces. (The plural of tetrahedron is tetrahedra.)
+The small tetrahedra form four medium-sized tetrahedra: blue, red, yellow, and green. The medium-sized tetrahedra form one large tetrahedron.
+Image description: A large tetrahedron composed of various colors of smaller tetrahedra.
+Description: <p>A large tetrahedron is formed by four medium-sized tetrahedra of different colors: blue, red, yellow, green. Each medium-sized tetrahedron is formed by four small tetrahedra.</p>
+Image description: A large tetrahedron composed of various colors of smaller tetrahedra.
+How many small faces does this fractal have? Be sure to include faces you can’t see. Try to find a way to figure this out so that you don’t have to count every face.
+How many small tetrahedra are in the bottom layer, touching the table?
+To make an even bigger version of this fractal, you could take four fractals like the one pictured and put them together. Explain where you would attach the fractals to make a bigger tetrahedron.
+How many small faces would this bigger fractal have? How many small tetrahedra would be in the bottom layer?
+What other patterns can you find?
+Teachers with a valid work email address can click here to register or sign in for free access to Extension Student Response.
+The discussion should focus on the meaning of a solution to an equation, the meaning of the equal sign, and how the meaning of exponents can help find solutions. Discussion:
+Explain what the equal sign in these equations tell us about the expressions on either side.
+Describe your strategy for finding a number that makes each equation true.
+Were there any equations that needed a different approach?
+What was your strategy when \(x\) was the exponent?
+Compare your strategy for the first question to your strategy for the last question.
+Lesson Synthesis
+Ask students to reflect on their thinking in the activities they completed. Some questions to consider:
+“How did you make use of the meaning of operations and exponents in each activity?”
+“How did thinking about the meaning of operations and exponents help to find the value of \(x\) in the activity with the equations?”
+“Was there anything you learned in the first activity that helped you with the second activity?”
+“What have you noticed about a number less than 1 raised to a power? How does this compare to a number greater than 1 raised to a power?”
+15.4: Cool-down - True Statements (5 minutes)
+CCSS Standards
+Addressing
+6.EE.A.1
+6.EE.B.5
+Teachers with a valid work email address can click here to register or sign in for free access to Cool-Downs.
+Student Lesson Summary
+In this lesson, we saw expressions that used the letter \(x\) as a variable. We evaluated these expressions for different values of \(x\).
+To evaluate the expression \(2x^3\) when \(x\) is 5, we replace the letter \(x\) with 5 to get \(2 \boldcdot 5^3\). This is equal to \(2 \boldcdot 125\) or just 250. So the value of \(2x^3\) is 250 when \(x\) is 5.
+To evaluate \(\frac{x^2}{8}\) when \(x\) is 4, we replace the letter \(x\) with 4 to get \(\frac{4^2}{8} = \frac{16}{8}\), which equals 2. So \(\frac{x^2}{8}\) has a value of 2 when \(x\) is 4.
+We also saw equations with the variable \(x\) and had to decide what value of \(x\) would make the equation true.
+Suppose we have an equation \(10 \boldcdot 3^x = 90\) and a list of possible solutions: \({1, 2, 3, 9, 11}\). The only value of \(x\) that makes the equation true is 2 because \( 10 \boldcdot 3^2 = 10 \boldcdot 3 \boldcdot 3\), which equals 90. So 2 is the solution to the equation.
+Video Summary
+End of Lesson

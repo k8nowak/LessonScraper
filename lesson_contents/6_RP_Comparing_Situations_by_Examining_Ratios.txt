@@ -1,0 +1,190 @@
+Start of Lesson
+Lesson
+Comparing Situations by Examining Ratios
+Lesson Narrative
+In previous lessons, students learned that if two situations involve equivalent ratios, we can say that the situations are described by the same rate. In this lesson, students compare ratios to see if two situations in familiar contexts involve the same rate. The contexts and questions are:
+Two people run different distances in the same amount of time. Do they run at the same speed?
+Two people pay different amounts for different numbers of concert tickets. Do they pay the same cost per ticket?
+Two recipes for a drink are given. Do they taste the same?
+In each case, the numbers are purposely chosen so that reasoning directly with equivalent ratios is a more appealing method than calculating how-many-per-one and then scaling. The reason for this is to reinforce the concept that equivalent ratios describe the same rate, before formally introducing the notion of unit rate and methods for calculating it. However, students can use any method. Regardless of their chosen approach, students need to be able to explain their reasoning (MP3) in the context of the problem.
+Learning Goals
+Teacher Facing
+Choose and create diagrams to help compare two situations and explain whether they happen at the same rate.
+Justify that two situations do not happen at the same rate by finding a ratio to describe each situation where the two ratios share one value but not the other, i.e., $a:b$ and $a:c$, or $x:z$ and $y:z$.
+Recognize that a question asking whether two situations happen “at the same rate” is asking whether the ratios are equivalent.
+Student Facing
+Let’s use ratios to compare situations.
+Learning Targets
+Student Facing
+I can decide whether or not two situations are happening at the same rate.
+I can explain what it means when two situations happen at the same rate.
+I know some examples of situations where things can happen at the same rate.
+CCSS Standards
+Addressing
+6.RP.A.2
+6.RP.A.3
+6.RP.A.3.b
+Glossary Entries
+same rate
+We use the words same rate to describe two situations that have equivalent ratios.
+For example, a sink is filling with water at a rate of 2 gallons per minute. If a tub is also filling with water at a rate of 2 gallons per minute, then the sink and the tub are filling at the same rate.
+We use the words same rate to describe two situations that have equivalent ratios.
+For example, a sink is filling with water at a rate of 2 gallons per minute. If a tub is also filling with water at a rate of 2 gallons per minute, then the sink and the tub are filling at the same rate.
+Lesson Title:
+Comparing Situations by Examining Ratios
+10.1: Treadmills (10 minutes)
+CCSS Standards
+Addressing
+6.RP.A.3.b
+Routines and Materials
+Instructional Routines
+Anticipate, Monitor, Select, Sequence, Connect
+Think Pair Share
+In this activity, students encounter two distance-time ratios in which one quantity (distance) has the same value and the other quantity (time) has different values. Students interpret what the ratios mean in context, i.e., in terms of the speeds of two runners. There are several ways to reason about this with or without double number lines. Students may argue that since both runners ran for the same distance but Mai ran a shorter amount of time, she ran at a greater speed.
+Students may also say that if Mai could run 3 miles in 24 minutes, at that speed, she would run more than 3 miles in 30 minutes. Since Jada only ran 3 miles in 30 minutes, Mai ran faster. The double number line that corresponds to these arguments may be as shown below.
+Image description: A double number line for miles of distance run: 0, 3 and minutes of elapsed time: 0, 24.
+Image description: On the same double number line, the tick mark for 30 minutes of elapsed time is paired with a tick mark for “more than 3” miles of distance run.
+As students work, monitor for the different ways they reason about the situation and identify a few students to share different approaches later.
+Explain to students that a treadmill is an exercise machine for walking or running. Explain that while the runner does not actually go anywhere on a treadmill, a computer inside the treadmill keeps track of the distance traveled as if she were running outside.
+If desired, this video shows a person starting a treadmill and walking at a constant speed for a few seconds.
+Video Treadmill available at https://player.vimeo.com/video/304136549.
+Students work on all parts of the activity silently and individually, then share their explanation with a partner.
+Mai and Jada each ran on a treadmill. The treadmill display shows the distance, in miles, each person ran and the amount of time it took them, in minutes and seconds.
+Here is Mai’s treadmill display:
+Image description: Picture of Mai's treadmill display.
+Description: <p>A picture of Mai's treadmill display for the distance and time ran. Data on the treadmill are: Total Time: 24 minutes, 0 seconds. Distance, 3.0 miles. Pace, 8 minutes, 0 seconds. Calories, 481. Incline, 10. Level, 12. Pulse, 125.</p>
+Image description: Picture of Mai's treadmill display.
+Here is Jada’s treadmill display:
+Image description: Picture of Jada's treadmill display.
+Description: <p>A picture of Jada's treadmill display for distance and time ran. Data on the treadmill are: Total Time: 30 minutes, 0 seconds. Distance, 3.0 miles. Pace, 10 minutes, 0 seconds. Calories, 411. Incline, 10. Level, 12. Pulse, 125.</p>
+Image description: Picture of Jada's treadmill display.
+What is the same about their workouts? What is different about their workouts?
+If each person ran at a constant speed the entire time, who was running faster? Explain your reasoning.
+Because a person running on a treadmill does not actually go anywhere, it may be challenging to think about a distance covered. If this comes up, suggest that students think about running the given distances outside on a straight, flat road at a constant speed.
+Select a few students to share their reasoning about the speeds of the runners. If no students use a double number line to make an argument, illustrate one of their explanations using a double number line.
+Remind students that even though a double number line is not always necessary, it can be a helpful tool to support arguments about ratios in different contexts.
+10.2: Concert Tickets (10 minutes)
+CCSS Standards
+Addressing
+6.RP.A.2
+Routines and Materials
+Instructional Routines
+Anticipate, Monitor, Select, Sequence, Connect
+MLR6: Three Reads
+Think Pair Share
+Previously, students worked with ratios in which one quantity (distance run) had the same value and the other (time elapsed) did not. In the context of running, they concluded that the runners did not run at the same rate. Here, students work with two ratios in which neither quantity (number of tickets bought and money paid) has the same value, and decide if the two people in the situation bought tickets at the same rate. Students may approach the task in several ways. They may use a double number line to generate ratios that are equivalent to \(47:3\), representing the prices Diego would pay for different number of tickets. Once the price for 9 tickets is determined by scaling up the first ratio, they can compare it to the amount that Andre paid for the same number of tickets.
+They may remember, without drawing number lines, that multiplying two values of a ratio by the same number produces a ratio that is equivalent. They may notice that multiplying 3 tickets by 3 results in 9 tickets, making the values for one quantity in the ratios match. They can then compare the two prices for 9 tickets. Alternatively, they may divide Andre’s 9 tickets and $141 payment by 3 to get his price for 3 tickets.
+Another approach is to calculate the price of 1 ticket, as students did in a previous lesson. To make this approach less attractive here, the numbers have been deliberately chosen so the price of a single ticket ($\(15\frac23\)) is not a whole number.
+As students work, monitor for those who reason correctly using the three approaches described above.
+Ask students what comes to mind when they hear the term “at the same rate”? Ask if they can think of any examples of situations that happen at the same rate. An example is two things traveling at the same speed. Any distance traveled will have the same associated time for things traveling at the same rate. Remind students that when situations happen “at the same rate,” they can be described by ratios that are equivalent.
+Give students quiet think time to complete the activity and then time to share their explanation with a partner.
+If students have digital access, they can use an applet to explore the problem and justify their reasoning before sharing with a partner. If students have not used the number line applet in previous activities or need a refresher as to how to use it, demonstrate the treadmill problem with the applet.
+Reading: MLR6 Three Reads. This is the first time Math Language Routine 6 is suggested as a support in this course. In this routine, students are supported in reading a mathematical text, situation, or word problem three times, each with a particular focus. During the first read, students focus on comprehending the situation; during the second read, students identify quantities; during the third read, students brainstorm possible strategies to answer the question. The question to be answered does not become a focus until the third read so that students can make sense of the whole context before rushing to a solution. The purpose of this routine is to support students’ reading comprehension as they make sense of mathematical situations and information through conversation.Design Principle(s): Support sense-making
+How It Happens:
+In the first read, students read the problem with the goal of comprehending the situation.Invite a student to read the problem aloud while everyone else reads with them and then ask, “What is this situation about?”Allow one minute to discuss with a partner, and then share with the whole class. A clear response would be: “Diego and Andre both bought tickets to a concert.”
+In the first read, students read the problem with the goal of comprehending the situation.
+Invite a student to read the problem aloud while everyone else reads with them and then ask, “What is this situation about?”
+Allow one minute to discuss with a partner, and then share with the whole class. A clear response would be: “Diego and Andre both bought tickets to a concert.”
+In the second read, students analyze the mathematical structure of the story by naming quantities.Invite students to read the problem aloud with their partner or select a different student to read to the class and then prompt students by asking, “What can be counted or measured in this situation? For now we don’t need to focus on how many or how much of anything, but what can we count in this situation?” Give students one minute of quiet think time followed by another minute to share with their partner. Quantities may include: the number of tickets Diego bought, the number of tickets Andre bought, the amount Diego paid, the amount Andre paid, the rate of dollars per ticket that Diego paid, the rate of dollars per ticket that Andre paid.Call attention to the fact that whether we are talking about Andre or Diego, the two important quantities in this situation are: number of tickets, and amount paid in dollars.
+In the second read, students analyze the mathematical structure of the story by naming quantities.
+Invite students to read the problem aloud with their partner or select a different student to read to the class and then prompt students by asking, “What can be counted or measured in this situation? For now we don’t need to focus on how many or how much of anything, but what can we count in this situation?” Give students one minute of quiet think time followed by another minute to share with their partner. Quantities may include: the number of tickets Diego bought, the number of tickets Andre bought, the amount Diego paid, the amount Andre paid, the rate of dollars per ticket that Diego paid, the rate of dollars per ticket that Andre paid.
+Call attention to the fact that whether we are talking about Andre or Diego, the two important quantities in this situation are: number of tickets, and amount paid in dollars.
+In the third read, students brainstorm possible strategies to answer the question, “Did they pay at the same rate?”Invite students to read the problem aloud with their partner or select a different student to read to the class. Instruct students to think of ways to approach the question without actually solving the problem.Consider using these questions to prompt students: “How would you approach this question?,” “What strategy or method would you try first?,” and “Can you think of a different way to solve it?”Give students one minute of quiet think time followed by another minute to discuss with their partner. Provide these sentence frames as partners discuss: “To compare the rates, I would use a double number line by….”, “One way to approach the question would be to….”	Sample responses include: “I would figure out how much each person paid for one ticket”, “I know that if I multiply 3 tickets by 3, I get 9, so I would see what happens when I multiply $47 by 3”, “I would draw a diagram to figure out how much 3 groups of three tickets would cost at Diego’s rate”, and “I would use a double number line to scale up the rate for Diego’s tickets (or scale down the rate for Andre’s tickets) to see if they are the same rate.” This will help students concentrate on making sense of the situation before rushing to a solution or method.
+In the third read, students brainstorm possible strategies to answer the question, “Did they pay at the same rate?”
+Invite students to read the problem aloud with their partner or select a different student to read to the class. Instruct students to think of ways to approach the question without actually solving the problem.
+Consider using these questions to prompt students: “How would you approach this question?,” “What strategy or method would you try first?,” and “Can you think of a different way to solve it?”
+Give students one minute of quiet think time followed by another minute to discuss with their partner. Provide these sentence frames as partners discuss: “To compare the rates, I would use a double number line by….”, “One way to approach the question would be to….”	Sample responses include: “I would figure out how much each person paid for one ticket”, “I know that if I multiply 3 tickets by 3, I get 9, so I would see what happens when I multiply $47 by 3”, “I would draw a diagram to figure out how much 3 groups of three tickets would cost at Diego’s rate”, and “I would use a double number line to scale up the rate for Diego’s tickets (or scale down the rate for Andre’s tickets) to see if they are the same rate.” This will help students concentrate on making sense of the situation before rushing to a solution or method.
+As partners are discussing their strategies, select 1–2 students to share their ideas with the whole class. As students are presenting ideas to the whole class, create a display that summarizes ideas about the question.Listen for quantities that were mentioned during the second read, and take note of strategies for relating number of tickets to cost (amount paid).
+As partners are discussing their strategies, select 1–2 students to share their ideas with the whole class. As students are presenting ideas to the whole class, create a display that summarizes ideas about the question.
+Listen for quantities that were mentioned during the second read, and take note of strategies for relating number of tickets to cost (amount paid).
+Post the summary where all students can use it as a reference, and suggest that students consider using the Three Reads routine for the next activity as well.
+Diego paid $47 for 3 tickets to a concert. Andre paid $141 for 9 tickets to a concert. Did they pay at the same rate? Explain your reasoning.
+Ask students what comes to mind when they hear the term “at the same rate”? Ask if they can think of any examples of situations that happen at the same rate. An example is two things traveling at the same speed. Any distance traveled will have the same associated time for things traveling at the same rate. Remind students that when situations happen “at the same rate,” they can be described by ratios that are equivalent.
+Give students quiet think time to complete the activity and then time to share their explanation with a partner.
+If students have digital access, they can use an applet to explore the problem and justify their reasoning before sharing with a partner. If students have not used the number line applet in previous activities or need a refresher as to how to use it, demonstrate the treadmill problem with the applet.
+Reading: MLR6 Three Reads. This is the first time Math Language Routine 6 is suggested as a support in this course. In this routine, students are supported in reading a mathematical text, situation, or word problem three times, each with a particular focus. During the first read, students focus on comprehending the situation; during the second read, students identify quantities; during the third read, students brainstorm possible strategies to answer the question. The question to be answered does not become a focus until the third read so that students can make sense of the whole context before rushing to a solution. The purpose of this routine is to support students’ reading comprehension as they make sense of mathematical situations and information through conversation.Design Principle(s): Support sense-making
+How It Happens:
+In the first read, students read the problem with the goal of comprehending the situation.Invite a student to read the problem aloud while everyone else reads with them and then ask, “What is this situation about?”Allow one minute to discuss with a partner, and then share with the whole class. A clear response would be: “Diego and Andre both bought tickets to a concert.”
+In the first read, students read the problem with the goal of comprehending the situation.
+Invite a student to read the problem aloud while everyone else reads with them and then ask, “What is this situation about?”
+Allow one minute to discuss with a partner, and then share with the whole class. A clear response would be: “Diego and Andre both bought tickets to a concert.”
+In the second read, students analyze the mathematical structure of the story by naming quantities.Invite students to read the problem aloud with their partner or select a different student to read to the class and then prompt students by asking, “What can be counted or measured in this situation? For now we don’t need to focus on how many or how much of anything, but what can we count in this situation?” Give students one minute of quiet think time followed by another minute to share with their partner. Quantities may include: the number of tickets Diego bought, the number of tickets Andre bought, the amount Diego paid, the amount Andre paid, the rate of dollars per ticket that Diego paid, the rate of dollars per ticket that Andre paid.Call attention to the fact that whether we are talking about Andre or Diego, the two important quantities in this situation are: number of tickets, and amount paid in dollars.
+In the second read, students analyze the mathematical structure of the story by naming quantities.
+Invite students to read the problem aloud with their partner or select a different student to read to the class and then prompt students by asking, “What can be counted or measured in this situation? For now we don’t need to focus on how many or how much of anything, but what can we count in this situation?” Give students one minute of quiet think time followed by another minute to share with their partner. Quantities may include: the number of tickets Diego bought, the number of tickets Andre bought, the amount Diego paid, the amount Andre paid, the rate of dollars per ticket that Diego paid, the rate of dollars per ticket that Andre paid.
+Call attention to the fact that whether we are talking about Andre or Diego, the two important quantities in this situation are: number of tickets, and amount paid in dollars.
+In the third read, students brainstorm possible strategies to answer the question, “Did they pay at the same rate?”Invite students to read the problem aloud with their partner or select a different student to read to the class. Instruct students to think of ways to approach the question without actually solving the problem.Consider using these questions to prompt students: “How would you approach this question?,” “What strategy or method would you try first?,” and “Can you think of a different way to solve it?”Give students one minute of quiet think time followed by another minute to discuss with their partner. Provide these sentence frames as partners discuss: “To compare the rates, I would use a double number line by….”, “One way to approach the question would be to….”	Sample responses include: “I would figure out how much each person paid for one ticket”, “I know that if I multiply 3 tickets by 3, I get 9, so I would see what happens when I multiply $47 by 3”, “I would draw a diagram to figure out how much 3 groups of three tickets would cost at Diego’s rate”, and “I would use a double number line to scale up the rate for Diego’s tickets (or scale down the rate for Andre’s tickets) to see if they are the same rate.” This will help students concentrate on making sense of the situation before rushing to a solution or method.
+In the third read, students brainstorm possible strategies to answer the question, “Did they pay at the same rate?”
+Invite students to read the problem aloud with their partner or select a different student to read to the class. Instruct students to think of ways to approach the question without actually solving the problem.
+Consider using these questions to prompt students: “How would you approach this question?,” “What strategy or method would you try first?,” and “Can you think of a different way to solve it?”
+Give students one minute of quiet think time followed by another minute to discuss with their partner. Provide these sentence frames as partners discuss: “To compare the rates, I would use a double number line by….”, “One way to approach the question would be to….”	Sample responses include: “I would figure out how much each person paid for one ticket”, “I know that if I multiply 3 tickets by 3, I get 9, so I would see what happens when I multiply $47 by 3”, “I would draw a diagram to figure out how much 3 groups of three tickets would cost at Diego’s rate”, and “I would use a double number line to scale up the rate for Diego’s tickets (or scale down the rate for Andre’s tickets) to see if they are the same rate.” This will help students concentrate on making sense of the situation before rushing to a solution or method.
+As partners are discussing their strategies, select 1–2 students to share their ideas with the whole class. As students are presenting ideas to the whole class, create a display that summarizes ideas about the question.Listen for quantities that were mentioned during the second read, and take note of strategies for relating number of tickets to cost (amount paid).
+As partners are discussing their strategies, select 1–2 students to share their ideas with the whole class. As students are presenting ideas to the whole class, create a display that summarizes ideas about the question.
+Listen for quantities that were mentioned during the second read, and take note of strategies for relating number of tickets to cost (amount paid).
+Post the summary where all students can use it as a reference, and suggest that students consider using the Three Reads routine for the next activity as well.
+Diego paid $47 for 3 tickets to a concert. Andre paid $141 for 9 tickets to a concert. Did they pay at the same rate? Explain your reasoning.
+The main strategy to highlight here is one that could tell us what Diego would pay for 9 tickets if he paid at the same rate as he did for 3 tickets. For 9 tickets, he would have paid $141, which is what Andre paid for 9 tickets and which tells us that they paid at the same rate.
+Select 2–3 students to present their work to the class in the order of their methods:
+Correct use of a double number line to show that the given ratios are equivalent.
+Correct use of multiplication (or division) without using a double number line.
+(Optional) Correct use of unit price (i.e., by finding out \(141\div9\) and \(47\div3\)). Though it's a less efficient approach here, the outcome also shows that the two people paid at the same rate.
+Recap that using equivalent ratios to make one of the corresponding quantities the same can help us compare the other quantity and tell whether the situations involve the same rate.
+10.3: Sparkling Orange Juice (15 minutes)
+CCSS Standards
+Addressing
+6.RP.A.3
+Routines and Materials
+Instructional Routines
+MLR1: Stronger and Clearer Each Time
+Think Pair Share
+Here, students compare the tastes of two sparkling orange juice mixtures, which involves reasoning about whether the two situations involve equivalent ratios. The problem is more challenging because no values of the quantities match or are multiples of one another. Instead of finding an equivalent ratio for one recipe so that it matches the other, students need to do so for both recipes.
+To answer the question, students can either make the values of the soda water match and then compare the orange juice amounts, or make the orange juice amounts match and compare the values for soda water. Again, they may use a double number line, multiplication, and possibly finding how much of one quantity per 1 unit of the other quantity.
+Introduce the task by saying that some people make sparking orange juice by mixing orange juice and soda water. Ask students to predict how the drink would taste if we mixed a huge amount of soda water with just a little bit of orange juice (it would not have a very orange-y flavor), or the other way around.
+Explain that they will now compare the tastes of two sparkling orange juice recipes. Remind them that we previously learned that making larger or smaller batches of the same recipe does not change its taste.
+Give students quiet think time to complete the activity and then time to share their explanation with a partner.
+If students have digital access, they can use an applet to explore the problem and justify their reasoning before sharing with a partner.
+Lin and Noah each have their own recipe for making sparkling orange juice.
+Lin mixes 3 liters of orange juice with 4 liters of soda water.
+Noah mixes 4 liters of orange juice with 5 liters of soda water.
+How do the two mixtures compare in taste? Explain your reasoning.
+Introduce the task by saying that some people make sparking orange juice by mixing orange juice and soda water. Ask students to predict how the drink would taste if we mixed a huge amount of soda water with just a little bit of orange juice (it would not have a very orange-y flavor), or the other way around.
+Explain that they will now compare the tastes of two sparkling orange juice recipes. Remind them that we previously learned that making larger or smaller batches of the same recipe does not change its taste.
+Give students quiet think time to complete the activity and then time to share their explanation with a partner.
+If students have digital access, they can use an applet to explore the problem and justify their reasoning before sharing with a partner.
+Lin and Noah each have their own recipe for making sparkling orange juice.
+Lin mixes 3 liters of orange juice with 4 liters of soda water.
+Noah mixes 4 liters of orange juice with 5 liters of soda water.
+How do the two mixtures compare in taste? Explain your reasoning.
+How can Lin make her sparkling orange juice taste the same as Noah’s just by adding more of one ingredient? How much will she need?
+How can Noah make his sparkling orange juice taste the same as Lin’s just by adding more of one ingredient? How much will he need?
+Teachers with a valid work email address can click here to register or sign in for free access to Extension Student Response.
+Some students may say that these two recipes would taste the same because they each use 1 more liter of soda water than orange juice (an additive comparison instead of a multiplicative comparison). Remind them of when we made batches of drink mix, and that mixtures have the same taste when mixed in equivalent ratios.
+Display two double number line diagrams for all to see: one that represents batches of the \(3:4\) recipe and another that represents batches of the \(4:5\) recipe. Scale them up to show enough batches of each recipe to be able to make comparisons.
+Ask students to explain how they can tell that the \(4:5\) recipe tastes more orange-y. Elicit both explanations: comparing the amount of soda water for the same amount of orange juice, and the other way around. Ensure students can articulate why each way of comparing means that the second recipe is more orange-y.
+If any students calculated a unit rate for each recipe, you might consider inviting them to share, but help them be careful with their choice of words. It is important to say, for example, “In the first recipe, there is \(\frac34\) or 0.75 cup of orange juice per cup of soda water, but in the second recipe, there is \(\frac45\) or 0.8 cup of orange juice per cup of soda water.” A student with this response would be comparing the number of cups of orange juice for every 1 cup of soda water in each mixture. (Note: if this approach comes up, consider taking this opportunity to discuss fraction comparison methods that students should know from earlier grades. In particular, \(\frac34=1-\frac14\) is less than \(\frac45=1-\frac15\) because \(\frac15\) is smaller than \(\frac14\).)
+Lesson Synthesis
+This lesson is all about figuring out whether two situations happen at the same rate by comparing one quantity when the other quantity is the same. In order to do that, it’s helpful to generate equivalent ratios.
+Briefly review the strategies used in the three activities in this lesson.
+How did we know that the people on the treadmill were not going the same speed? (They went different distances in the same amount of time.)
+How did we know the people paid the same rate for the concert tickets? (We figured out how much one person would have paid for 9 tickets at the same rate he paid for 3. We compared that to what the other person paid for 9 tickets.)
+How did we know that the sparkling orange juice recipes did not taste the same? (We made equivalent ratios so we could compare orange juice for the same amount of soda water or compare soda water for the same amount of orange juice.)
+How were all these problems alike? (We used equivalent ratios to make one part of the ratio the same and compared the other part.)
+10.4: Cool-down - Comparing Runs (5 minutes)
+CCSS Standards
+Addressing
+6.RP.A.3.b
+Teachers with a valid work email address can click here to register or sign in for free access to Cool-Downs.
+Student Lesson Summary
+Sometimes we want to know whether two situations are described by the same rate. To do that, we can write an equivalent ratio for one or both situations so that one part of their ratios has the same value. Then we can compare the other part of the ratios.
+For example, do these two paint mixtures make the same shade of orange?
+Kiran mixes 9 teaspoons of red paint with 15 teaspoons of yellow paint.
+Tyler mixes 7 teaspoons of red paint with 10 teaspoons of yellow paint.
+Here is a double number line that represents Kiran's paint mixture. The ratio \(9:15\) is equivalent to the ratios \(3:5\) and \(6:10\).
+Image description: A double number line for teaspoons of red paint: 0, 3, 6, 9, 12 and teaspoons of yellow paint: 0, 5, 10, 15, 20.
+For 10 teaspoons of yellow paint, Kiran would mix in 6 teaspoons of red paint. This is less red paint than Tyler mixes with 10 teaspoons of yellow paint. The ratios \(6:10\) and \(7:10\) are not equivalent, so these two paint mixtures would not be the same shade of orange.
+When we talk about two things happening at the same rate, we mean that the ratios of the quantities in the two situations are equivalent. There is also something specific about the situation that is the same.
+If two ladybugs are moving at the same rate, then they are traveling at the same constant speed.
+If two bags of apples are selling for the same rate, then they have the same unit price.
+If we mix two kinds of juice at the same rate, then the mixtures have the same taste.
+If we mix two colors of paint at the same rate, then the mixtures have the same shade.
+Video Summary
+End of Lesson

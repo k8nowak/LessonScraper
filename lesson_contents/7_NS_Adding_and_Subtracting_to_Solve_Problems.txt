@@ -1,0 +1,160 @@
+Start of Lesson
+Lesson
+Adding and Subtracting to Solve Problems
+Lesson Narrative
+The purpose of this lesson is to put students' knowledge about addition and subtraction of signed numbers to use in real-life contexts. They work with tables that show the change, positive or negative, in quantities such as inventory or energy usage, and must make sense of these tables to answer questions about the context. An optional activity extends students' work with signed numbers on the number line to points in all four quadrants of the coordinate plane.
+As students reason about quantities using signed numbers they engage in MP2.
+Learning Goals
+Teacher Facing
+Apply addition and subtraction of signed numbers to solve problems in an unfamiliar context, and explain (orally and in writing) the solution method.
+Interpret signed numbers used to represent gains or losses in an unfamiliar context.
+Student Facing
+Let’s apply what we know about signed numbers to different situations.
+Learning Targets
+Student Facing
+I can solve problems that involve adding and subtracting rational numbers.
+CCSS Standards
+Building On
+7.NS.A.1
+Addressing
+7.NS.A.1.c
+7.NS.A.3
+Building Towards
+7.EE.B.4
+Lesson Title:
+Adding and Subtracting to Solve Problems
+7.1: Positive or Negative? (5 minutes)
+CCSS Standards
+Building On
+7.NS.A.1
+Building Towards
+7.EE.B.4
+Routines and Materials
+Instructional Routines
+Think Pair Share
+The purpose of this warm-up is to have students reason about an equation involving positive and negative rational numbers using what they have learned about operations with rational numbers.
+Arrange students in groups of 2. Give students 30 seconds of quiet think time and ask them to give a signal when they have an answer and a strategy for the first question. Then have them discuss their reasoning with a partner. Ask for an explanation, and then ask if everyone agrees with that reasoning.
+Then give students 30 seconds of quiet think time and ask them to give a signal when they have an answer for the second question. Then have them discuss their reasoning with a partner.
+Without computing:
+Is the solution to \(\text-2.7 + x = \text- 3.5\) positive or negative?
+Select all the expressions that are solutions to \(\text-2.7 + x = \text- 3.5\).\(\text-3.5 + 2.7\)\(3.5 - 2.7\)\(\text-3.5 - (\text-2.7)\)\(\text-3.5 - 2.7\)
+Select all the expressions that are solutions to \(\text-2.7 + x = \text- 3.5\).
+\(\text-3.5 + 2.7\)
+\(3.5 - 2.7\)
+\(\text-3.5 - (\text-2.7)\)
+\(\text-3.5 - 2.7\)
+Ask several student to share which expressions they chose for the second question. Discuss until everyone is in agreement about the answer to the second question.
+7.2: Phone Inventory (10 minutes)
+CCSS Standards
+Addressing
+7.NS.A.3
+Routines and Materials
+Instructional Routines
+MLR8: Discussion Supports
+Think Pair Share
+Positive and negative numbers are often used to represent changes in a quantity. An increase in the quantity is positive, and a decrease in the quantity is negative. In this activity, students see an example of this convention and are asked to make sense of it in the given context.
+Arrange students in groups of 2. Give students 30 seconds of quiet work time followed by 1 minute of partner discussion for the first two problems. Briefly, ensure everyone agrees on the interpretation of positive and negative numbers in this context, and then invite students to finish the rest of the questions individually. Follow with whole-class discussion.
+A store tracks the number of cell phones it has in stock and how many phones it sells.
+The table shows the inventory for one phone model at the beginning of each day last week. The inventory changes when they sell phones or get shipments of phones into the store.
+['', 'inventory', 'change', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
+['18', '-2']
+['16', '-5']
+['11', '-7']
+['4', '-6']
+['-2', '20']
+What do you think it means when the change is positive? Negative?
+What do you think it means when the inventory is positive? Negative?
+Based on the information in the table, what do you think the inventory will be at on Saturday morning? Explain your reasoning.
+What is the difference between the greatest inventory and the least inventory?
+Tell students that we often use positive and negative to represent changes in a quantity. Typically, an increase in the quantity is positive, and a decrease in the quantity is negative.
+Ask students what they answered for the second question and record their responses. Highlight one or two that describe the situation clearly.
+Ask a few students to share their answer to the third question, and discuss any differences. Then discuss the answer to the last question.
+7.3: Solar Power (15 minutes)
+CCSS Standards
+Addressing
+7.NS.A.3
+Routines and Materials
+Instructional Routines
+Anticipate, Monitor, Select, Sequence, Connect
+MLR6: Three Reads
+Think Pair Share
+It is common to use positive numbers to represent credit and negative numbers to represent debts on a bill. This task introduces students to this convention and asks them to solve addition and subtraction questions in that context. Note that whether a number should be positive or negative is often a choice, which means one must be very clear about explaining the interpretation of a signed number in a particular context (MP6).
+For the second question, monitor for students who find the amount each week and sum those, and students who sum the value of the electricity used and the value of the electricity generated separately, and then find the sum of those.
+Arrange students in groups of 2. Give students 4 minutes of quiet work time followed by partner discussion. Follow with a whole-class discussion.
+Han's family got a solar panel. Each month they get a credit to their account for the electricity that is generated by the solar panel. The credit they receive varies based on how sunny it is.
+Image description: An image of the side of the roof of a house. The roof has solar panels on it.
+Attribution: Solar panels on a roof, by Pujanak (Own work). Public Domain. Wikimedia Commons. Source.
+[]
+['Current charges: $83.56Solar Credit: -$6.75Amount due: $76.81']
+Here is their electricity bill from January.
+In January they used $83.56 worth of electricity and generated $6.75 worth of electricity.
+In July they were traveling away from home and only used $19.24 worth of electricity. Their solar panel generated $22.75 worth of electricity. What was their amount due in July?
+The table shows the value of the electricity they used and the value of the electricity they generated each week for a month. What amount is due for this month? used ($)generated ($)week 113.45-6.33week 221.78-8.94week 318.12-7.70week 424.05-5.36
+The table shows the value of the electricity they used and the value of the electricity they generated each week for a month. What amount is due for this month?
+[' ', 'used ($)', 'generated ($)', 'week 1', 'week 2', 'week 3', 'week 4']
+['13.45', '-6.33']
+['21.78', '-8.94']
+['18.12', '-7.70']
+['24.05', '-5.36']
+What is the difference between the value of the electricity generated in week 1 and week 2? Between week 2 and week 3?
+While most rooms in any building are all at the same level of air pressure, hospitals make use of "positive pressure rooms" and "negative pressure rooms."  What do you think it means to have negative pressure in this setting?  What could be some uses of these rooms?
+Teachers with a valid work email address can click here to register or sign in for free access to Extension Student Response.
+Ask one or more students to share their answer to the first question and resolve any discrepancies.
+Ask selected students to share their reasoning for the second questions. Discuss the relative merits of different approaches to solving the problem.
+Finish by going over the solution to the third question. Point out that the bill will reflect a negative number in the amount due section, but we can interpret this to mean that the family receives a credit, and it will be applied to their next bill.
+7.4: Differences and Distances (15 minutes)
+CCSS Standards
+Addressing
+7.NS.A.1.c
+7.NS.A.3
+Routines and Materials
+Instructional Routines
+MLR8: Discussion Supports
+Think Pair Share
+In grade 6, students practiced finding the horizontal or vertical distance between points on a coordinate plane. In this activity, students see that this can be done by subtracting the \(x\) or \(y\)-coordinates for the points (MP7). Students continue to work with the distinction between distance (which is unsigned) and difference (which is signed) (MP6). This prepares them finding the slope of a line and the diagonal distance between points in grade 8.
+Arrange students in groups of 2. Give students 3 minutes of quiet work time followed by partner discussion. Follow with a whole-class discussion.
+Plot these points on the coordinate grid: \(A= (5, 4), B= (5, \text-2), C= (\text-3, \text-2), D= (\text-3, 4)\)
+What shape is made if you connect the dots in order?
+What are the side lengths of figure \(ABCD\)?
+What is the difference between the \(x\)-coordinates of \(B\) and \(C\)?
+What is the difference between the \(x\)-coordinates of \(C\) and \(B\)?
+How do the differences of the coordinates relate to the distances between the points?
+Arrange students in groups of 2. Give students 3 minutes of quiet work time followed by partner discussion. Follow with a whole-class discussion.
+Plot these points on the coordinate grid: \(A= (5, 4), B= (5, \text-2), C= (\text-3, \text-2), D= (\text-3, 4)\)
+Image description: A blank coordinate grid with the origin labled “O”. The x axis has the numbers negative 10 through 10 indicated and the y-axis has the numbers negative 10 through 10 indicated.
+What shape is made if you connect the dots in order?
+What are the side lengths of figure \(ABCD\)?
+What is the difference between the \(x\)-coordinates of \(B\) and \(C\)?
+What is the difference between the \(x\)-coordinates of \(C\) and \(B\)?
+How do the differences of the coordinates relate to the distances between the points?
+Main learning points:
+When two points in the coordinate plane lie on a horizontal line, you can find the distance between them by subtracting their \(x\)-coordinates.
+When two points in the coordinate plane lie on a vertical line, you can find the distance between them by subtracting their \(y\)-coordinates.
+The distance between two numbers is independent of the order, but the difference depends on the order.
+Discussion questions:
+Explain what makes the distance between two points and the difference between two points distinct.
+Explain how you would find the vertical or horizontal distance between two points.
+Explain how you would find the vertical or horizontal difference between two points.
+Lesson Synthesis
+What are some situations where adding and subtracting rational numbers can help us solve problems?
+7.5: Cool-down - Coffee Shop Cups (5 minutes)
+CCSS Standards
+Addressing
+7.NS.A.3
+Teachers with a valid work email address can click here to register or sign in for free access to Cool-Downs.
+Student Lesson Summary
+Sometimes we use positive and negative numbers to represent quantities in context. Here are some contexts we have studied that can be represented with positive and negative numbers:
+temperature
+elevation
+inventory
+an account balance
+electricity flowing in and flowing out
+In these situations, using positive and negative numbers, and operations on positive and negative numbers, helps us understand and analyze them. To solve problems in these situations, we just have to understand what it means when the quantity is positive, when it is negative, and what it means to add and subtract them.
+When two points in the coordinate plane lie on a horizontal line, you can find the distance between them by subtracting their \(x\)-coordinates.
+When two points in the coordinate plane lie on a vertical line, you can find the distance between them by subtracting their \(y\)-coordinates.
+Image description: Five line segments on a coordinate plane.
+Description: <p>Five line segments on a coordinate plane with the origin labeled “O”. The numbers negative 5 through 5, are indicated on the horizontal axis and the numbers negative 4 through 5 are indicated on the vertical axis. Each line segment is either vertical or horizontal. The first line segment is vertical that begins at the point negative 5 comma 3 and ends at the point negative 5 comma negative 4; the line segment is labeled with the expression 3 minus negative 4. The second line segment is horizontal and begins at the point negative 5 comma negative 4 and ends at the point negative 2 comma negative 4; the line segment is labeled with the expression negative 2 minus negative 5. The third line segment is vertical and begins at the point negative 2 comma negative 4 and ends at the point negative 2 comma 2; the line segment is labeled with the expression 2 minus negative 4. The fourth line segment is horizontal and begins at the point negative 2 comma 2 and ends at the point three comma 2; the line segment is labeled with the expression 3 minus negative 2. The fifth line segment is vertical and begins at the point 3 comma 2 and ends at the point 3 comma five; the line segment is labeled with the expression 5 minus 2.</p>
+Image description: Five line segments on a coordinate plane.
+Remember: the distance between two numbers is independent of the order, but the difference depends on the order.
+Video Summary
+End of Lesson
